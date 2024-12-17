@@ -22,3 +22,33 @@ def info_df(dataframe):
     info_df["%_nulos"] = round((dataframe.isnull().sum()/dataframe.shape[0])*100, 2)
 
     return info_df
+
+# Creamos una función que realiza las mismas funciones que el describe, pero con más estadísticos, solo para elementos numéricos
+def estadisticos_numericas_df(dataframe):
+    valores_curtosis = []
+    valores_asimetria = []
+    valores_moda = []
+    valores_mediana = []
+    #creamos un bucle for para calcular los valores de la curtosis y la asimetría
+    for columna in dataframe:
+        if dataframe[columna].dtype == "int" or dataframe[columna].dtype == "float":
+
+            moda = round(dataframe[columna].mode(), 2)
+            mediana = round(dataframe[columna].median(), 2)
+            curtosis = round(dataframe[columna].kurtosis(), 2)
+            asimetria = round(dataframe[columna].skew(),2)
+
+            valores_moda.append(moda)
+            valores_curtosis.append(curtosis)
+            valores_asimetria.append(asimetria)
+            valores_mediana.append(mediana)
+        else: 
+            ...
+
+    estadísticos_generales = round(dataframe.describe().T, 2)
+    estadísticos_generales["Mediana"] = valores_mediana
+    estadísticos_generales["Moda"] = valores_moda[0]
+    estadísticos_generales["Curtosis"] = valores_curtosis
+    estadísticos_generales["Coef_asimetria"] = valores_asimetria
+
+    return estadísticos_generales
