@@ -3,6 +3,7 @@
 
 import pandas as pd
 import numpy as np
+from pandas.api.types import is_datetime64_any_dtype as is_datetime
 
 def info_df(dataframe):
     """
