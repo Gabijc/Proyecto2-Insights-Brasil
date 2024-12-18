@@ -43,3 +43,32 @@ def buscar_reemplazar(dataframe, columnas):
         dataframe[columna] = dataframe[columna].str.replace(",", ".").astype(float)
 
     return dataframe
+
+# Creamos una función que realiza las mismas funciones que el describe, pero con más estadísticos, solo para elementos numéricos
+def estadisticos_numericas_df(dataframe, lista_columnas):
+    valores_curtosis = []
+    valores_asimetria = []
+    valores_moda = []
+    #creamos un bucle for para calcular los valores de la curtosis y la asimetría
+    for columna in lista_columnas:
+        if dataframe[columna].dtype == int or dataframe[columna].dtype == float:
+
+            curtosis = round(dataframe[columna].kurtosis(), 2)
+            asimetria = round(dataframe[columna].skew(),2)
+            moda = dataframe[columna].mode()
+
+            valores_curtosis.append(curtosis)
+            valores_asimetria.append(asimetria)
+            valores_moda.append(float(moda.iloc[0]))
+            
+        elif is_datetime(dataframe[columna]):
+            valores_curtosis.append(np.nan)
+            valores_asimetria.append(np.nan)
+            valores_moda.append(float(moda.iloc[0]))
+            
+    estadísticos_generales = round(dataframe.describe().T, 2)
+    estadísticos_generales["Curtosis"] = valores_curtosis
+    estadísticos_generales["Coef_asimetria"] = valores_asimetria
+    estadísticos_generales["Moda"] = valores_moda
+
+    return estadísticos_generales
