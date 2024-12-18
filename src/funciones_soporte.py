@@ -23,32 +23,23 @@ def info_df(dataframe):
 
     return info_df
 
-# Creamos una función que realiza las mismas funciones que el describe, pero con más estadísticos, solo para elementos numéricos
-def estadisticos_numericas_df(dataframe):
-    valores_curtosis = []
-    valores_asimetria = []
-    valores_moda = []
-    valores_mediana = []
-    #creamos un bucle for para calcular los valores de la curtosis y la asimetría
-    for columna in dataframe:
-        if dataframe[columna].dtype == "int" or dataframe[columna].dtype == "float":
+# Para poder realizar el cambio de estas columnas del tipo de dato, anteriormente necesitaremos cambiar las comas por puntos, ya que python
+# no reconoce las comas en los números, solo los puntos. Para ello aplicaremos un replace sobre cada uno de los elementos de las columnas, 
+# y pediremos que nos modifique las comas por puntos.
+def buscar_reemplazar(dataframe, columnas):
 
-            moda = round(dataframe[columna].mode(), 2)
-            mediana = round(dataframe[columna].median(), 2)
-            curtosis = round(dataframe[columna].kurtosis(), 2)
-            asimetria = round(dataframe[columna].skew(),2)
+    """
+    Función que cambia los datos numéricos de una columna de un dataframe, que están en tipo string, y contienen comas. 
 
-            valores_moda.append(moda)
-            valores_curtosis.append(curtosis)
-            valores_asimetria.append(asimetria)
-            valores_mediana.append(mediana)
-        else: 
-            ...
+    Args:
+        dataframe (DataFrame): Dataframe que contiene las columnas a modificar
+        columnas (lista de columnas del DataFrame): lista de columnas del DataFrame, de las cuales se quiere realizar el cambio de datos.
 
-    estadísticos_generales = round(dataframe.describe().T, 2)
-    estadísticos_generales["Mediana"] = valores_mediana
-    estadísticos_generales["Moda"] = valores_moda[0]
-    estadísticos_generales["Curtosis"] = valores_curtosis
-    estadísticos_generales["Coef_asimetria"] = valores_asimetria
+    Returns:
+        DataFrame: dataframe con las columnas indicadas con los datos numéricos cambiados a tipo float.
+    """
+    for columna in columnas:
+    
+        dataframe[columna] = dataframe[columna].str.replace(",", ".").astype(float)
 
-    return estadísticos_generales
+    return dataframe
