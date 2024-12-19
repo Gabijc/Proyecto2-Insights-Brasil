@@ -76,6 +76,16 @@ def estadisticos_numericas_df(dataframe, lista_columnas):
 
     return estadísticos_generales
 
+# Creamos una función que nos permite ir accediendo a las categorías económicas con sus valores de ingresos. Será aplicable a los ministerios también
+def info_cat(dataframe, categoria):
+
+    ingresos_categoria = dataframe.groupby(categoria)[["VALOR PREVISTO ATUALIZADO", "VALOR LANÇADO","VALOR REALIZADO"]].sum().round(2)
+    ingresos_categoria["porcentaje recaudado"] = round((ingresos_categoria["VALOR REALIZADO"]/ingresos_categoria["VALOR PREVISTO ATUALIZADO"])* 100, 2).replace([np.inf, -np.inf, np.nan], "Previsión de 0")
+    ingresos_categoria["diferencia_recaudacion"] = round(ingresos_categoria["VALOR REALIZADO"]-ingresos_categoria["VALOR LANÇADO"], 2)
+
+    return ingresos_categoria
+
+# Función para gráficas temporales que comparan dos variables
 def evolucion_temporal(dataframe, eje_x, ejes_y):
     sns.lineplot(x = eje_x, 
              y = ejes_y[0],
@@ -91,3 +101,28 @@ def evolucion_temporal(dataframe, eje_x, ejes_y):
     plt.ylabel(input("Qué nombre tiene el eje y: "))
     plt.gca().spines["right"].set_visible(False)
     plt.gca().spines["top"].set_visible(False) 
+
+# Función para representar los estadísticos de variables numéricas
+def graficos_estadisticos(dataframe, columna):
+    fig, axes = plt.subplots(nrows = 1, ncols = 2, figsize = (20, 5))
+
+    sns.boxplot(x = columna, 
+            data = dataframe, 
+            color ="violet", 
+            ax = axes[0])
+
+    axes[0].set_title(input("Nombre del diagrama de caja: "))
+    axes[0].set_ylabel(columna)
+    axes[0].spines["right"].set_visible(False)
+    axes[0].spines["top"].set_visible(False) 
+
+    sns.violinplot(x = columna, 
+             data = dataframe, 
+             color = "olivedrab",
+             ax = axes[1])
+
+
+    axes[1].set_title(input("Nombre del diagrama de violin: "))
+    axes[1].set_ylabel(columna)
+    axes[1].spines["right"].set_visible(False)
+    axes[1].spines["top"].set_visible(False) 
