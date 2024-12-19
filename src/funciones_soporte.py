@@ -76,3 +76,18 @@ def estadisticos_numericas_df(dataframe, lista_columnas):
 
     return estadísticos_generales
 
+def evolucion_temporal(dataframe, eje_x, ejes_y):
+    sns.lineplot(x = eje_x, 
+             y = ejes_y[0],
+             data = dataframe, 
+             color = "navy")
+    sns.lineplot(x = eje_x, 
+             y = ejes_y[1],
+             data = dataframe, 
+             color = "crimson")
+
+    plt.title(input("Qué nombre quieres ponerle al gráfico: "))
+    plt.xlabel(eje_x)
+    plt.ylabel(input("Qué nombre tiene el eje y: "))
+    plt.gca().spines["right"].set_visible(False)
+    plt.gca().spines["top"].set_visible(False) 
