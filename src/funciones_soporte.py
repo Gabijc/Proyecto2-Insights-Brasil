@@ -4,6 +4,8 @@
 import pandas as pd
 import numpy as np
 from pandas.api.types import is_datetime64_any_dtype as is_datetime
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 def info_df(dataframe):
     """
@@ -73,3 +75,35 @@ def estadisticos_numericas_df(dataframe, lista_columnas):
     estadísticos_generales["Moda"] = valores_moda
 
     return estadísticos_generales
+
+
+# Función para crear gráficas temporales
+
+def evolucion_temporal(dataframe, eje_x, ejes_y):
+    fig, axes = plt.subplots(nrows = 1, ncols = 2, figsize = (20, 8), sharex = True)
+
+    # Gráfico de previsiones
+    sns.lineplot(x = eje_x, 
+             y = ejes_y[0],
+             data = dataframe, 
+             color = "navy",
+             ax = axes[0])
+
+    axes[0].set_title(input("Qué nombre quieres ponerle al primer gráfico: "))
+    axes[0].set_xlabel(eje_x)
+    axes[0].set_ylabel(ejes_y[0])
+    axes[0].spines["right"].set_visible(False)
+    axes[0].spines["top"].set_visible(False) 
+
+    # Gráfico de recaudación real
+    sns.lineplot(x = eje_x, 
+             y = ejes_y[1],
+             data = dataframe, 
+             color = "crimson",
+             ax = axes[1])
+
+    axes[1].set_title(input("Qué nombre quieres ponerle al segundo gráfico: "))
+    axes[1].set_xlabel(eje_x)
+    axes[1].set_ylabel(ejes_y[1])
+    axes[1].spines["right"].set_visible(False)
+    axes[1].spines["top"].set_visible(False) 
