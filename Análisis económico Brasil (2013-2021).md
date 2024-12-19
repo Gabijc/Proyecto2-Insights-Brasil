@@ -66,6 +66,18 @@ Los ingresos públicos de Brasil se clasifican económicamente en las siguientes
    - Enajenación de activos (Alienação de Bens)
    - Operaciones de crédito (Operações de Crédito)
 
+enlace con la info de todas las categorias:
+https://portal.fazenda.sp.gov.br/acessoinformacao/Downloads/Webservice/Conceitos%20de%20receitas%20LC%20131.pdf
+
+estadisticas fiscales gobierno brasil:
+https://www.tesourotransparente.gov.br/temas/estatisticas-fiscais-e-planejamento
+
+ingresos publicos, portal transparencia: 
+https://portaldatransparencia.gov.br/receitas
+
+web tesoro nacional:
+https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos
+
 
 En el conjunto de datos nos encontramos la siguiente información:
 - `código órgão superior`: Código numérico que identifica la entidad gubernamental superior.
