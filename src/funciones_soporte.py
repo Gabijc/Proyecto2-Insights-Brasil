@@ -115,7 +115,7 @@ def graficos_estadisticos(dataframe, columna):
     axes[0].set_ylabel(columna)
     axes[0].spines["right"].set_visible(False)
     axes[0].spines["top"].set_visible(False) 
-
+    axes[0].ticklabel_format(style='plain', axis='x')
     sns.violinplot(x = columna, 
              data = dataframe, 
              color = "olivedrab",
@@ -126,3 +126,4 @@ def graficos_estadisticos(dataframe, columna):
     axes[1].set_ylabel(columna)
     axes[1].spines["right"].set_visible(False)
     axes[1].spines["top"].set_visible(False) 
+    axes[1].ticklabel_format(style='plain', axis='x')
