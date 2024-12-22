@@ -26,11 +26,11 @@ Hemos de tener en cuenta lo siguiente:
 
 Como podemos ver en ambos gráficos tanto la previsión, como la recaudación real de los ingresos públicos de Brasil presentan una tendencia al alza a lo largo de los años. Aún así observamos que la recaudación anual presenta valores inferiores en todos los años a la previsión recaudada. Principalmente vemos una importante reducción en la recaudación anual en 2017, año en el cual se esperaba ingresar un total de 3.414.379.614.681,84 $, de los cuales se ingresaron solo un 74,92 %. Esto puede deberse a la crisis económica que sufrió el país entre 2015 y 2016. 
 
-![alt text](image.png)
+![alt text](imagenes/image.png)
 
 En cuanto a los registros de ingresos, y la recaudación real observamos enormes diferencias. Como hemos comentado anteriormente, el registro de un ingreso contable debe ser igual al ingreso final recibido por la entidad recaudadora. En este caso no se cumple este principio. Vemos que durante todo el período analizado el resgitro de ingresos presenta una tendencia a la baja, mientras que los ingresos realmente recaudados presentan una tendencia al alza. Se están registrando menos ingresos de los que se están recuadando realmente. Más abajo observaremos qué entidades administrativas presentan mayores diferencias en este aspecto, ya que intuimos la existencia de fraude públiico.
 
-![alt text](image-1.png)
+![alt text](imagenes/image-1.png)
 
 
 ## 2. Análisis contable de los ingresos de Brasil
