@@ -89,7 +89,8 @@ En cuanto a las previsiones, las categorías con mayor volumen de previsión son
 
 Finalmente, las categorías con más diferencia entre los ingresos registrados y los ingresos recaudados son las intrapresupuestarias, las cuales tienen un ingreso registrado de 0 $. Los ingresos de capital presentan una alta diferencia asimismo, ya que hay un registro bastante pequeño de estos ingresos. Los ingresos corrientes son los que menos diferencia presentan.
 
-### 1 - Ingresos Corrientes
+#### 1 - Ingresos Corrientes
+
 Los ingresos corrientes provienen de los siguientes fondos.
 
 *Ingresos tributarios*
@@ -152,27 +153,49 @@ Estos ingresos registran el valor de la recaudación de los ingresos procedentes
 
 Incluye los ingresos corrientes de otras fuentes, no clasificables en los anteriores. 
 
-
+`insertar gráfico y análisis`
 
 #### 3 - Ingresos de Capital
-Constituidos por:
-- Ingresos provenientes de operaciones de crédito.
-- Venta de bienes.
-- Amortización de préstamos.
-- Transferencias para gastos de capital.
-- Otros ingresos de capital.
 
-- Enajenación de activos (Alienação de Bens)
-- Reembolso de préstamos (Amortizações de Empréstimos)
-- Operaciones de crédito (Operações de Crédito)
-- Otros ingresos de capital (Outras Receitas de Capital)	
-- Transferencias de capital (Transferências de Capital)
+Los ingresos de capital proceden de la realización de recursos financieros derivados de la constitución de deudas, de la conversión en especie de bienes y derechos, y de los fondos recibidos de otras entidades públicas o privadas, destinados a hacer frente a
+gastos clasificables como gastos de capital. Se componen de las operaciones de crédito, la enajenación de activos, la amortización de préstamos, las transferencias de capital y otros ingresos.
+
+*Operaciones de crédito*
+
+Los ingresos prodecentes de operaciones de crédito tienen su origen en los préstamos y la financiaciónobtenidos en las entidades estatañes o privadas, internas o externas. Se compone de los siguientes tipos: 
+- Operaciones de crédito interno: registran el importe cobrado por préstamos internos obtenidos de entidades estatales o privadas.
+- Operaciones de crédito externo: registran el importe de los ingresos recibidos por préstamos de organizaciones son sede en el extranjero.
+
+*Enajenación de activos*
+
+Estos ingresos proceden de la enajenación de componentes de activos permanentes. Tenemos la enajenación de bienes muebles e inmuebles:
+- Enajenación de bienes muebles: registran el importe de los ingresos recaudados por la venta de bienes muebles tales como valores, mercancías, bienes inservibles o innecesarios y otros.
+- Enajenación de bienes inmuebles: registran el importe de los ingresos recaudados por la venta de bienes inmuebles propiedad del Estado.
+
+*Amortización de préstamos*
+
+Estos ingresos proceden de la amortización, al cobro, de los préstamos o financiaciones concedidos en títulos o contratos. 
+
+*Transferencias de capital*
+
+Estos fondos son aquellos percibidos de otras entidades públicas o privadas, independientemente de la contraprestación directa en forma de bienes y servicios, siempre que la finalidad sea destinarlos a gastos de capital. Se compone de los siguientes tipos:
+- Transferencias intergubernamentales: registra el valor de los ingresos recibidos a travñes de transferencias entre diferentes niveles de gobierno.
+- Transferencias del exterior: registra el valor de los ingresos de transferencias del exterior.
+- Transferencias de convenios:  registra el valor de los fondos procedentes de convenios sucrtido, con o sin contraprestación de servicios, por organismos públicos de cualquier naturaleza, o entre éstos y entidades privadas, para la consecución de objetivos de interés común para los aprticipantes, destinados a cubrir gastos de capital.  
+
+*Otros ingresos de capital*	
+
+Se trata de ingresos de capital procedentes de otras fuentes, no clasificados en los anteriores. Registran el importe de otros ingresis percibidos, de carácter ocasional, no incluidos en el plan contable. Los ingresos de capital que no cumplan las especificaciones anteriores se clasifican en esta partida. 
+
+`insertar gráfico y análisis`
 
 #### 4 - Ingresos de capital - intrapresupuestarios
 
 Los ingresos de capital intrapresupuestarios proceden de las sociedades estatales dependientes que forman parte del presupuesto fiscal, cuando el hecho generador del ingreso se deriva de un gasto de un organismo incluido en dicho presupuesto, dentro del mismo ámbito de gobierno. 
 
 Se compone de los denominados *Otros ingresos de capital*, los cuales registran el importe percibido por otros ingresos vinculados al incremento del patrimonio de la unidad. Dentro de esta categoría tenemos el *pago del capital social* el cual registra el valor de los fondos recibidos por empresas públicas dependientes como pago de su capital social.  
+
+`insertar gráfico y análisis`
 
 ## 3. Análisis por entidad gubernamental
 
