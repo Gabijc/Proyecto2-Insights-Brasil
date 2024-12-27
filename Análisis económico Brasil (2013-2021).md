@@ -1,22 +1,14 @@
-# Título 
+# Ingresos en Brasil : un viaje por los presupuestos nacionales 🌎
 
 ## Índice
 
-1. **Introducción y Resumen sobre la economía de Brasil**  
-
-2. **Análisis contable de los ingresos de Brasil**  
-
-3. **Análisis por entidad gubernamental**
-
-4. **Conclusiones**
-
-5. **Próximos pasos** 
-
+1. **Introduccion a la economía presupuestaria de Brasil**  
+2. **Análisis temporal de los ingresos de Brasil**
+3. **Análisis contable de los ingresos de Brasil**  
+4. **Análisis de los ingresos de Brasil por entidad gubernamental**
+5. **Conclusiones y próximos pasos**
 6. **Balances**
-
-7. **Glosario de términos**
-
-8. **Bibliografía**
+7. **Bibliografía**
 
 ## 1. Introduccion a la economía presupuestaria de Brasil
 
@@ -150,13 +142,15 @@ Los ingresos corrientes intrapresupuestarios son ingresos corrientes procedentes
 
 *Cotizaciones*
  
-Las cotizaciones registran el valor de la recaudación de los ingresos procedentes de la tasa de adiminstración de la entidad única de gestión del sistema de Seguridad Social. 
+Las cotizaciones registran el valor de la recaudación de los ingresos por cotizaciones sociales relativos a la financiación del sistema de seguridad social.
 
 *Prestación de servicios*
 
+Estos ingresos registran el valor de la recaudación de los ingresos procedentes de la tasa de adiminstración de la entidad única de gestión del sistema de Seguridad Social.
 
 *Otros ingresos*
 
+Incluye los ingresos corrientes de otras fuentes, no clasificables en los anteriores. 
 
 
 
@@ -176,10 +170,9 @@ Constituidos por:
 
 #### 4 - Ingresos de capital - intrapresupuestarios
 
-El origen de estos ingresos son los siguientes:
-- Enajenación de activos (Alienação de Bens)
-- Operaciones de crédito (Operações de Crédito)
+Los ingresos de capital intrapresupuestarios proceden de las sociedades estatales dependientes que forman parte del presupuesto fiscal, cuando el hecho generador del ingreso se deriva de un gasto de un organismo incluido en dicho presupuesto, dentro del mismo ámbito de gobierno. 
 
+Se compone de los denominados *Otros ingresos de capital*, los cuales registran el importe percibido por otros ingresos vinculados al incremento del patrimonio de la unidad. Dentro de esta categoría tenemos el *pago del capital social* el cual registra el valor de los fondos recibidos por empresas públicas dependientes como pago de su capital social.  
 
 ## 3. Análisis por entidad gubernamental
 
@@ -211,7 +204,6 @@ El origen de estos ingresos son los siguientes:
 |                                        | Operações de Crédito                        | 10.808.411.537,00            | 0,00                      | 28.141.949.016,32         |
 | **Sem informação**                     | Sem informação                              | 0,00                         | 2.812.347.576,39          | 46,57                     |
 
-## 7. Glosario de términos
 
 ## 8. Bibliografia
 
