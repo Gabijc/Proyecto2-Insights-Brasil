@@ -3,10 +3,6 @@
 ## Índice
 
 1. **Introducción y Resumen sobre la economía de Brasil**  
-   - Estructura  
-   - Órganos administrativos  
-   - Balanza de pagos  
-   - Comercio  
 
 2. **Análisis contable de los ingresos de Brasil**  
 
@@ -22,50 +18,67 @@
 
 8. **Bibliografía**
 
-## 1. Introduccion y resumen sobre la economía de Brasil
+## 1. Introduccion a la economía presupuestaria de Brasil
 
-El equilibrio presupuestario es un principio que exige la nivelación de los presupeustos públicos. En este documento realizamos un análisis de la parte de los ingresos presupuestarios de Brasil entre 2013 y 2021.
+En Brasil la planificación presupuestaria es una de las tareas esenciales de la gestión gubernamental, a través de la cual se definen estrategias que orientan el rumbo deseado del país, y donde se definen las prioridades del Gobierno Federal. El ciclo presupuestario se divide en tres etapas: preparación, ejecución y evaluación o control. Todo el proceso es transparente y puede ser monitoreado por la sociedad. 
 
-Hemos de tener en cuenta lo siguiente:
+Durante la etapa de planificación se realiza la elaboración del Proyecto de Ley de Presupuesto Anual (PLOA) por parte del Poder Ejecutivo y se aprueba por parte del Poder Legislativo. La ejecución consiste en la publicación de los pesupuestos aprobados en el Diario Oficial de la Unión, y la presentación por parte del Poder Ejecutivo del Decreto de Programación Presupuestaria y Fianciera, donde se establecen los detalles del uso del Presupuesto. Finalmente el control se realiza de forma interna y externa a través de las unidades específicas de cada organismo supervisado por la Oficina del Interventor General (CGU) y el Congreso Nacional junto al Tribunal de Cuentas (TCU). 
+
+## 2. Análisis temporal de los ingresos de Brasil
+
+EN Brasil, a la hora de generar presupuestos, se registran los siguientes ingresos, en función del momento de creación o recaudación de los mismos:
 - Ingresos previstos: previsión del ingreso a recaudar
 - Ingresos registrados: valor del ingreso registrado contablemente.
 - Ingresos recaudados: valor del ingreso recaudado finalmente.
 - Importe recaudado sobre la previsión: porcentaje de la previsión recaudado finalmente. 
-
-Como podemos ver en ambos gráficos tanto la previsión, como la recaudación real de los ingresos públicos de Brasil presentan una tendencia al alza a lo largo de los años. Aún así observamos que la recaudación anual presenta valores inferiores en todos los años a la previsión recaudada. Principalmente vemos una importante reducción en la recaudación anual en 2017, año en el cual se esperaba ingresar un total de 3.414.379.614.681,84 $, de los cuales se ingresaron solo un 74,92 %. Esto puede deberse a la crisis económica que sufrió el país entre 2015 y 2016. 
+ 
+Entre 2013 y 2021 la recaudación de ingresos públicos presenta una tendencia al alza. Aún así observamos que la recaudación anual presenta valores inferiores en todos los años respecto de la previsión recaudada. Principalmente vemos una importante reducción en la recaudación anual en 2017, año en el cual se esperaba ingresar un total de 3.414.379.614.681,84 $, de los cuales se ingresaron solo un 74,92 %. 
 
 ![alt text](imagenes/image.png)
 
-En cuanto a los registros de ingresos, y la recaudación real observamos enormes diferencias. Como hemos comentado anteriormente, el registro de un ingreso contable debe ser igual al ingreso final recibido por la entidad recaudadora. En este caso no se cumple este principio. Vemos que durante todo el período analizado el resgitro de ingresos presenta una tendencia a la baja, mientras que los ingresos realmente recaudados presentan una tendencia al alza. Se están registrando menos ingresos de los que se están recuadando realmente. Más abajo observaremos qué entidades administrativas presentan mayores diferencias en este aspecto, ya que intuimos la existencia de fraude públiico.
+
+En cuanto al registro de ingresos, y la recaudación final observamos enormes diferencias. El registro de un ingreso contable debe ser igual al ingreso final recibido por la entidad recaudadora. En este caso no se cumple este principio. Vemos que durante todo el período analizado el registro de ingresos presenta una tendencia a la baja, mientras que los ingresos realmente recaudados presentan una tendencia al alza. Se están registrando menos ingresos de los que se están recuadando realmente. Más abajo observaremos qué entidades administrativas presentan mayores diferencias en este aspecto, ya que intuimos la existencia de fraude público.
 
 ![alt text](imagenes/image-1.png)
 
 
-## 2. Análisis contable de los ingresos de Brasil
+## 3. Análisis contable de los ingresos de Brasil
 
 En este apartado realizamos un análisis de los ingresos a través de las categorías económicas que componen la estructura contable de la economía presupuestaria de Brasil.
 
 ### Clasificación de los Ingresos Presupuestarios
 
-Los ingresos presupuestarios de Brasil se clasifican en 6 niveles.
+Los ingresos de Brasil se codifican y se desglosan en 6 niveles, con el objetivo de obtener una buena identificación de la entrada de estos fondos en las arcas públicas.
 
-* Primer Nivel – Categoría Económica: 
-   - Ingresos Corrientes: aparte de los ingresos corrientes nos podemos encontrar con los ingresos corrientes intra-presupuestarios.
-   - Ingresos de Capital: aparte de los ingresos de capital nos podemos encontrar con los ingresos de capital intra-presupuestarios.
+#### *Primer Nivel – Categoría Económica*
+
+Dentro de los ingresos presupuestarios nos encontramos con dos categorías económicas:
+- Ingresos Corrientes: aparte de los ingresos corrientes nos podemos encontrar con los ingresos corrientes intra-presupuestarios.
+- Ingresos de Capital: aparte de los ingresos de capital nos podemos encontrar con los ingresos de capital intra-presupuestarios.
 
 Los ingresos intrapresupuestarios especifican operaciones entre órganos y entidades dentro del mismo ámbito gubernamental. 
 
-* Segundo Nivel – Origen: identifica la fuente de los ingresos al ingresar al patrimonio público:
-   - Ingresos Corrientes:** Obligatorios (tributos y contribuciones), actividades estatales directas, explotación del patrimonio propio, transferencias para gastos corrientes u otros ingresos.
-   - Ingresos de Capital:** Operaciones de crédito, venta de bienes, amortización de préstamos, transferencias para gastos de capital u otros ingresos de capital.
+#### *Segundo Nivel – Origen*
 
-* Tercer Nivel – Especie: detalla el hecho generador de los ingresos.
+Este nivel identifica elmorgien de los ingresos en el momento que entran en el erario público. Dentro de cada categoría de ingreso económica se especifica lo siguiente:
+- Ingresos Corrientes: el origen de estos ingresos permite identificar si son de carácter obligaotrio, proceden de actividades en las cuales el Estado tiene participación directa en su producción, de explotación de activos propios o de transferencias destinadas a hacer frente a gastos. 
+- Ingresos de Capital: el origen de estos ingresos se distingue en si la procedencia es de operaciones de crédito, venta de activos, amortización de préstamos o de transferencias destinadas a hacer frente a gastos 
 
-* Cuarto Nivel – Rubro: agrupa ingresos con características propias y similares dentro de cada especie.
+#### *Tercer Nivel – Especie* 
 
-* Quinto Nivel – Línea: identifica el nombre del ingreso propiamente dicho, registrando la entrada de recursos financieros.
+Este nivel, vinculado al origen del ingreso, permote clasificar con detalle el hecho generador de los ingresos.
 
-* Sexto Nivel – Sublínea: es el nivel más analítico de la clasificación de ingresos.
+#### *Cuarto Nivel – Rúbrica*
+
+La rúbrica grupa ingresos con características propias y similares dentro de cada especie, y trata de identificat una cañificación específica dentro de cada tipo de ingresos.
+
+#### *Quinto Nivel – Línea*
+
+Identifica el nombre del ingreso propiamente dicho, registrando la entrada de recursos financieros.
+
+#### *Sexto Nivel – Sublínea*
+
+Es el nivel más analítico de la clasificación de ingresos.
 
 A continuación vemos los ingresos por categoría econoómica en dólares:
 
@@ -84,17 +97,15 @@ En cuanto a las previsiones, las categorías con mayor volumen de previsión son
 
 Finalmente, las categorías con más diferencia entre los ingresos registrados y los ingresos recaudados son las intrapresupuestarias, las cuales tienen un ingreso registrado de 0 $. Los ingresos de capital presentan una alta diferencia asimismo, ya que hay un registro bastante pequeño de estos ingresos. Los ingresos corrientes son los que menos diferencia presentan.
 
-# Insertar grafico
-
 ### 1 - Ingresos Corrientes
 Los ingresos corrientes provienen de los siguientes fondos.
 
 *Ingresos tributarios*
 
 Provienen de los impuestos, tasas y contribuciones de mejora:
-   - los impuestos son aquellos tributos cuya obligación surge de una situación independiente de cualquier actividad estatal específica relacionada con el contribuyente.
-   - Las tasas son generadas por el ejercicio regular del poder de policía, o por la utilización, efectiva o potencial, de un servicio público específico y divisible, prestado al contribuyente o puesto a su disposición.
-   - Las contribuciones de mejora son instituidas para cubrir el coste de obras públicas que resulten en una valorización inmobiliaria, con el límite total del gasto realizado, y el límite individual del aumento de valor que la obra genere para cada inmueble beneficiado.
+- Los impuestos son aquellos tributos cuya obligación surge de una situación independiente de cualquier actividad estatal específica relacionada con el contribuyente.
+- Las tasas son generadas por el ejercicio regular del poder de policía, o por la utilización, efectiva o potencial, de un servicio público específico y divisible, prestado al contribuyente o puesto a su disposición.
+- Las contribuciones de mejora son instituidas para cubrir el coste de obras públicas que resulten en una valorización inmobiliaria, con el límite total del gasto realizado, y el límite individual del aumento de valor que la obra genere para cada inmueble beneficiado.
 
 *Contribuciones*
 
@@ -135,21 +146,18 @@ Ingresos no clasificados en las categorías anteriores, como multas, intereses d
 
 #### 2 - Ingresos corrientes - intrapresupuestarios
 
-Los ingresos corrientes intrapresupuestarios presentan un esquema contable similar al de los ingresos corrientes
+Los ingresos corrientes intrapresupuestarios son ingresos corrientes procedentes de organismos, fundaciones, sociedades dependientes y otras entidades que forman parte de los presupuestos fiscales y de la Seguridad Social, en los casos en los que el hecho generador del ingreso deriva de un gasto de un organismo, fundación, sociedad dependiente u otras entidades incluidas en dichos presupuestos. Estructuralmente son similares a los ingresos corrientes y se componen de ingresos intrapresupuestarios por cotizaciones, por prestación de servicios y de otros ingresos corrientes.
 
-*Contribuciones (Contribuições)*
+*Cotizaciones*
+ 
+Las cotizaciones registran el valor de la recaudación de los ingresos procedentes de la tasa de adiminstración de la entidad única de gestión del sistema de Seguridad Social. 
 
-esta cuenta se compone de las contribuciones económicas, las contribuciones a organizaciones privadas de servicios y las cotizaciones sociales (Contribuições econômicas, Contribuições para Entidades Privadas de Serv, Contribuições sociais).
-   
-*Impuestos, tasas y contribuciones de mejora (Impostos, Taxas e Contribuições de Melhoria)*	
+*Prestación de servicios*
 
-*Otros ingresos corrientes (Outras Receitas Correntes)*
 
-*Ingresos Industriales (Receita Industrial)*
+*Otros ingresos*
 
-*Ingresos Patrimoniales (Receita Patrimonial)*
 
-*Ingresos por servicios (Receita de Serviços)*
 
 
 #### 3 - Ingresos de Capital
@@ -209,6 +217,10 @@ El origen de estos ingresos son los siguientes:
 
 - Información sobre las categorías contables:
 https://portal.fazenda.sp.gov.br/acessoinformacao/Downloads/Webservice/Conceitos%20de%20receitas%20LC%20131.pdf
+
+- Diferencia entre hecho generador y hecho imponible:
+https://revistas.uexternado.edu.co/index.php/fiscal/article/view/9165/15813
+
 
 estadisticas fiscales gobierno brasil:
 https://www.tesourotransparente.gov.br/temas/estatisticas-fiscais-e-planejamento
