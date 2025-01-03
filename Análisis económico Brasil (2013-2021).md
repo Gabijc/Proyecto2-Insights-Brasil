@@ -91,46 +91,59 @@ Finalmente, las categorías con más diferencia entre los ingresos registrados y
 
 #### 1 - Ingresos Corrientes
 
-Los ingresos corrientes provienen de los siguientes fondos.
+Los ingresos corrientes estan constituidos por los ingresos fiscales, contributivos, patrimoniales, agrarios, industriales, de servicios y otros, así como los ingresos procedentes de los recursos financieros percibidos de otros organismos públicos o privados, cuando estos se destinan a hacer frente a gastos clasificados como corrientes. 
 
 *Ingresos tributarios*
 
-Provienen de los impuestos, tasas y contribuciones de mejora:
+Los ingresos tributarios proceden de la recaudación de impuestos, tasas y contribuciones de mejora. Son los ingresos privados de las entidades investidas de la potestad tributaria: Unión, Estados, Distrito Federal y Municipios:
 - Los impuestos son aquellos tributos cuya obligación surge de una situación independiente de cualquier actividad estatal específica relacionada con el contribuyente.
 - Las tasas son generadas por el ejercicio regular del poder de policía, o por la utilización, efectiva o potencial, de un servicio público específico y divisible, prestado al contribuyente o puesto a su disposición.
 - Las contribuciones de mejora son instituidas para cubrir el coste de obras públicas que resulten en una valorización inmobiliaria, con el límite total del gasto realizado, y el límite individual del aumento de valor que la obra genere para cada inmueble beneficiado.
 
 *Contribuciones*
 
-Ingresos provenientes de contribuciones sociales. Dentro de las contribuciones nos encontramos con las contribuciones sociales, las cuales están destinadas a financiar la seguridad social, incluyendo previsión social, salud y asistencia social.
+Ingresos provenientes de las cotizaciones sociales. Las cotizaciones sociales están destinadas a financiar la seguridad social, incluyendo la seguridad social, la sanidad y la asistencia social. 
 
 *Patrimoniales* 
 
-Estos ingresos son los derivados del uso del patrimonio, ya sea de bienes inmuebles o muebles, o de participaciones societarias:
+Estos ingresos son los derivados del uso del patrimonio, ya sea de bienes inmuebles o muebles, valores o participaciones:
 - Ingresos inmobiliarios: Provenientes del uso, por terceros, de bienes inmuebles pertenecientes al sector público.
 - Ingresos de valores mobiliarios: Recaudación de ingresos derivados de valores mobiliarios.
 - Ingresos por concesiones y permisos: Recaudación originada por la concesión o permiso otorgado a particulares para la explotación de servicios públicos, sujetos al control, fiscalización y regulación del poder público.
-- Otros ingresos patrimoniales: Recaudación de otros ingresos patrimoniales no clasificados en los ítems anteriores.
+- Otros ingresos patrimoniales: Recaudación de otros ingresos patrimoniales no clasificados en las partidas anteriores.
 
 *Agropecuarios*
 
-Ingresos provenientes de actividades o explotaciones agropecuarias de origen vegetal o animal.
+Ingresos provenientes de actividades o explotación agraria de origen vegetal o animal:
+- Los ingresos procedentes de la producción vegetal proceden de los ingresos de los cultivos permanentes, temporales y espontáneos, la silvicultura y la extracción de productos vegetales, la venta de las semillas, plantones o similares, siempre que sean realizados directamente por el productor.
+- Los ingresos procedentes de la producción animal y derivados registran el valor de las rentas resultantes de la explotación económica de las actividades ganaderas, cinegéticas y pesqueras y sus derivados. 
+- Otras rentas agrarias: Recaudación de otros ingresos agrarios no clasificados en las partidas anteriores.
 
 *Industriales*
 
-Ingresos derivados de actividades industriales desarrolladas por el sector público.
+Ingresos derivados de la actividad industrial de extracción de minerales, transformación, construcción y otros, de actividades industriales definidas tales como por el Instituo Brasileño de Geografía y Estadística. Inculye los ingresos provenientes de la industria manufacturera. 
 
 *De servicios y otros*
 
-Ingresos provenientes de la prestación de servicios por parte del sector público.
+Ingresos provenientes de la prestación de servicios comerciales, financieros, de tranpsorte, sanitarios, de comuniacación, de almacenamiento, de metrología científica y tencológica entre otros.
 
 *Transferencias corrientes*
 
-Recursos financieros recibidos de otras entidades públicas o privadas destinados a cubrir gastos clasificados como gastos corrientes.
+Fondos recibidos de otras entidades públicas o privadas con independencia de la provisión directa de bienes y servicios, siempre que estén destinados a cubrir gastos clasificados como corrientes.
+- Transferencias intergubentamentales: valor de los ingresos percibidos de ingresos recibidos a través de tranferencias entre distintos niveles del gobierno.
+- Transferencias de instituciones privadas: contribuciones y donaciones a las administraciones públicas realizadas por instituciones privadas.
+- Transferencias del exterior: ingresos recibidos de transferencias externas.
+- Transferencias de particulares: ingresos recibidos a través de contribuciones y donaciones de particulares.
+- Transferencias de convenios: transferencias percibidas de convenios firmados con o sin contraprestación de servicios. 
+
 
 *Otros Ingresos Corrientes*
 
-Ingresos no clasificados en las categorías anteriores, como multas, intereses de mora y otros ingresos eventuales.
+ingresos corrientes no clasificados en las partidas anteriores: 
+- Multas e intereses de demora: importe de los ingresos recaudados por sanciones pecuniarias derivadas del incumplimiento de la normativa. 
+- Indemnizaciones y reembolsos: importe de los ingresos recaudados en concepto de indemnizaciones y reembolsos.
+- Ingresos de la deuda activa: ingresos recaudados de la deuda activa, consistentes en créditos tributarios y no tributarios del erario público.
+-  Ingresos varios: valor de los ingresos recaudados que no se ajustan a las especificaiciones anteriores. 
 
 ![inmagen ing corrientes](imagenes/ingresos%20corrientes.png)
 
@@ -198,6 +211,52 @@ Se compone de los denominados *Otros ingresos de capital*, los cuales registran 
 `insertar gráfico y análisis`
 
 ## 3. Análisis por entidad gubernamental
+
+En la administración pública de Brasil nos encontramos con los siguientes ministerios:
+
+*'Procuraduría General de la Unión'*
+*'Contraloría General de la Unión'*
+*Ministerio de Agricultura, Ganadería y Abastecimiento*
+Ministerio de la Ciudadanía*
+Ministerio de Ciencia, Tecnología e Innovación*
+Ministerio de Defensa, Ministerio de Economía*
+ Ministerio de Educación, Ministerio de Infraestructuras*
+Ministerio de Justicia y Seguridad Pública*
+Ministerio de la Mujer, la Familia y los Derechos Humanos*
+Ministerio de Pesca y Acuicultura*
+Ministerio de Bienestar Social
+*Ministerio de Sanidad*
+*Ministerio de Comunicaciones*
+Ministerio de la Mujer, Igualdad Racial*
+Ministerio de Asuntos Exteriores*
+Ministerio de Minas y Energía*
+Ministerio de Desarrollo Agrario*
+Ministerio de Desarrollo Regional
+*Ministerio de Deportes,
+*Ministerio de Medio Ambiente
+*Ministerio de Trabajo y Empleo,
+*Ministerio de Turismo
+*Presidencia de la República
+
+
+'Advocacia-Geral da União', 'Controladoria-Geral da União',
+       'Ministério da Agricultura, Pecuária e Abastec',
+       'Ministério da Cidadania',
+       'Ministério da Ciência, Tecnologia, Inovações ',
+       'Ministério da Defesa', 'Ministério da Economia',
+       'Ministério da Educação', 'Ministério da Infraestrutura',
+       'Ministério da Justiça e Segurança Pública',
+       'Ministério da Mulher, Família e Direitos Huma',
+       'Ministério da Pesca e Aquicultura',
+       'Ministério da Previdência Social', 'Ministério da Saúde',
+       'Ministério das Comunicações',
+       'Ministério das Mulheres, Igualdade Racial, da',
+       'Ministério das Relações Exteriores',
+       'Ministério de Minas e Energia',
+       'Ministério do Desenvolvimento Agrário',
+       'Ministério do Desenvolvimento Regional', 'Ministério do Esporte',
+       'Ministério do Meio Ambiente', 'Ministério do Trabalho e Emprego',
+       'Ministério do Turismo', 'Presidência da República'
 
 ## 6. Balances
 
