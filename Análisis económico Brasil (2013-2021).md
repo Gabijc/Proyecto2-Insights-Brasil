@@ -214,49 +214,62 @@ Se compone de los denominados *Otros ingresos de capital*, los cuales registran 
 
 En la administración pública de Brasil nos encontramos con los siguientes ministerios:
 
-*'Procuraduría General de la Unión'*
-*'Contraloría General de la Unión'*
+*Procuraduría General de la Unión*
+*Contraloría General de la Unión*
 *Ministerio de Agricultura, Ganadería y Abastecimiento*
-Ministerio de la Ciudadanía*
-Ministerio de Ciencia, Tecnología e Innovación*
-Ministerio de Defensa, Ministerio de Economía*
- Ministerio de Educación, Ministerio de Infraestructuras*
-Ministerio de Justicia y Seguridad Pública*
-Ministerio de la Mujer, la Familia y los Derechos Humanos*
-Ministerio de Pesca y Acuicultura*
-Ministerio de Bienestar Social
+*Ministerio de la Ciudadanía*
+*Ministerio de Ciencia, Tecnología e Innovación*
+
+El Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações ) es el órganismo con competencias en áreas como la  formulación de políticas nacionales de ciencia, tecnología e innovación, así como la planificación y supervisión de actividades en las áreas mencionadas. S encarga asimismo de las políticas de transformación digital, espacial, y nuclear, entre otros muchos. 
+La responsable actual del ministerio es Luciana Santos, del Partido Comunista de Brasil (PCdoB).
+
+*Ministerio de Defensa*
+*Ministerio de Economía*
+*Ministerio de Educación*
+*Ministerio de Infraestructuras*
+*Ministerio de Justicia y Seguridad Pública*
+*Ministerio de la Mujer, la Familia y los Derechos Humanos*
+*Ministerio de Pesca y Acuicultura*
+*Ministerio de Bienestar Social*
 *Ministerio de Sanidad*
 *Ministerio de Comunicaciones*
-Ministerio de la Mujer, Igualdad Racial*
-Ministerio de Asuntos Exteriores*
-Ministerio de Minas y Energía*
-Ministerio de Desarrollo Agrario*
-Ministerio de Desarrollo Regional
-*Ministerio de Deportes,
-*Ministerio de Medio Ambiente
-*Ministerio de Trabajo y Empleo,
-*Ministerio de Turismo
-*Presidencia de la República
+*Ministerio de la Mujer, Igualdad Racial*
+*Ministerio de Asuntos Exteriores*
+*Ministerio de Minas y Energía*
+*Ministerio de Desarrollo Agrario*
+*Ministerio de Desarrollo Regional*
+*Ministerio de Deportes*
+*Ministerio de Medio Ambiente*
+*Ministerio de Trabajo y Empleo*
+*Ministerio de Turismo*
+*Presidencia de la República*
 
 
-'Advocacia-Geral da União', 'Controladoria-Geral da União',
+'Advocacia-Geral da União', 
+'Controladoria-Geral da União',
        'Ministério da Agricultura, Pecuária e Abastec',
        'Ministério da Cidadania',
-       'Ministério da Ciência, Tecnologia, Inovações ',
-       'Ministério da Defesa', 'Ministério da Economia',
-       'Ministério da Educação', 'Ministério da Infraestrutura',
+       '',
+       'Ministério da Defesa', 
+       'Ministério da Economia',
+       'Ministério da Educação', 
+       'Ministério da Infraestrutura',
        'Ministério da Justiça e Segurança Pública',
        'Ministério da Mulher, Família e Direitos Huma',
        'Ministério da Pesca e Aquicultura',
-       'Ministério da Previdência Social', 'Ministério da Saúde',
+       'Ministério da Previdência Social', 
+       'Ministério da Saúde',
        'Ministério das Comunicações',
        'Ministério das Mulheres, Igualdade Racial, da',
        'Ministério das Relações Exteriores',
        'Ministério de Minas e Energia',
        'Ministério do Desenvolvimento Agrário',
-       'Ministério do Desenvolvimento Regional', 'Ministério do Esporte',
-       'Ministério do Meio Ambiente', 'Ministério do Trabalho e Emprego',
-       'Ministério do Turismo', 'Presidência da República'
+       'Ministério do Desenvolvimento Regional', 
+       'Ministério do Esporte',
+       'Ministério do Meio Ambiente', 
+       'Ministério do Trabalho e Emprego',
+       'Ministério do Turismo', 
+       'Presidência da República'
 
 ## 6. Balances
 
