@@ -212,7 +212,8 @@ Se compone de los denominados *Otros ingresos de capital*, los cuales registran 
 
 ## 3. Análisis por entidad gubernamental
 
-En la administración pública de Brasil nos encontramos con los siguientes ministerios:
+En la administración pública de Brasil tenemos una serie de Ministerios que cumplen diferentes funciones. A continuación analizamos las funciones de estos ministerios,
+así como los ingresos que han recaudado entre 2013 y 2021. 
 
 ### *Procuraduría General de la Unión (Advocacia-Geral da União)*
 
@@ -273,37 +274,57 @@ Asimismo es función de este ministerio desarrollar e implementar campañas educ
 ### *Ministerio de Pesca y Acuicultura (Ministério da Pesca e Aquicultura)* 🐙
 
 
-El Ministerio de Pesca y Acuicultura de Brasil tiene la misión de formular, coordinr e implementar las políticas públicas relacionadas con el desarrollo sostenible de la pesca y la acuicultura en el país. Sus funciones incluyen la gestión de recursos pesqueros, la promoción de la acuicultura, la supervisión del cumplimiento de normativas relacionadas con la pesca y la acuicultura, y el combate a la pesca ilegal y promoción de prácticas responsables, entre otras.
+El Ministerio de Pesca y Acuicultura de Brasil tiene la misión de formular, coordinar e implementar las políticas públicas relacionadas con el desarrollo sostenible de la pesca y la acuicultura en el país. Sus funciones incluyen la gestión de recursos pesqueros, la promoción de la acuicultura, la supervisión del cumplimiento de normativas relacionadas con la pesca y la acuicultura, y el combate a la pesca ilegal y promoción de prácticas responsables, entre otras.
 
-### *Ministerio de Bienestar Social (Ministério da Previdência Social)*
+### *Ministerio de Bienestar Social (Ministério da Previdência Social)* 🙌
 
+El Ministerio de Bienestar Social de Brasil gestiona los programas de seguridad social, promoviendo el acceso a pensiones y asistencia para la población más vulnerable, a través del Instituto Nacional del Seguro Social (INSS). 
+Asimismo, administra los sistemas de previsión social, asegurando la cobertura de salud y bienestar para los ciudadanos, y gestiona los fondos para la protección social. Su objetivo es reducir las desigualdades sociales y garantizar una red de apoyo a los trabajadores y pensionistas.
 
+### *Ministerio de Sanidad (Ministério da Saúde)* 🏥
 
-### *Ministerio de Sanidad (Ministério da Saúde)*
-
-
-
-### *Ministerio de Comunicaciones (Ministério das Comunicações)*
-
-
-
-### *Ministerio de la Mujer, Igualdad Racial (Ministério das Mulheres, Igualdade Racial)*
-
+El Ministerio de Sanidad está integrado dentro del Sistema Único de Salud (SUS) junto al Departamento de Salud del Estado y el Departamento Municipal de Salud. 
+El Ministerio de Sanidad como Gestor nacional del SUS, formula, regula, fiscaliza, monitorea y evalúa políticas y acciones, en conjunto con el Consejo Nacional 
+de Salud. Actúa en el ámbito de la Comisión Tripartita Intergestores para acordar el Plan Nacional de Salud. Su función principal es  proporcionar condiciones 
+para la protección y recuperación de la salud de la población, reduciendo enfermedades, controlando enfermedades endémicas y parasitarias y mejorando la vigilancia
+de la salud, proporcionando así una mejor calidad de vida a los brasileños.
 
 
-### *Ministerio de Asuntos Exteriores (Ministério das Relações Exteriores)*
+### *Ministerio de Comunicaciones (Ministério das Comunicações)* 📢
 
+El Ministerio de Comunicaciones es un órgano de administración federal directa que fue creado en junio de 2020, tras la separación del Ministerio de Ciencia, 
+Tecnología e Innovaciones.  El departamento fue creado con el objetivo de fortalecer las áreas de política nacional de telecomunicaciones, política nacional 
+de radiodifusión; y servicios postales, telecomunicaciones y radiodifusión. Tiene competencia en materias sobre política nacional de telecomunicaciones, política
+de radiofusión y los servicios postales, telecomunicaciones y radiofusión. 📺
 
+### *Ministerio de Igualdad Racial (Igualdade Racial)*  👫
 
-### *Ministerio de Minas y Energía (Ministério de Minas e Energia)*
+El Ministerio de Igualdad Racial se estructura en tres secretarías: Secretaría de Políticas de Acción Afirmativa y de Combate y Superación del Racismo; 
+Secretaría de Gestión del Sistema Nacional de Promoción de la Igualdad Racial y  Secretaría de Políticas para Quilombolas, Pueblos y Comunidades Tradicionales 
+de Origen Africano y Gitanos. Su función es promover políticas para combatir el racismo así como garantizar la equidad racial en el país, enfocándose en la inclusión 
+social de comunidades afrodescendientes, quilombolas y otros grupos tradicionales, implementando acciones afirmaticas y asgurando el acceso a derechos básicos. 
 
+### *Ministerio de Asuntos Exteriores (Ministério das Relações Exteriores)* 🌎
 
+El Ministerio de Relaciones Exteriores de Brasil, también conocido como Itamaraty por el nombre del palacio que aloja su sede, es el encargado de coordinar y ejecutar
+ la política exterior de Brasil, mediante su representación en foros internacionales y manteniendo relaciones diplomáticas. Sus funciones incluyen fomentar la cooperación
+  internacional, facilitar el comercio exterior, promover inversiones y proteger a los ciudadanos brasileños en el exterior. También aborda temas globales como derechos humanos, medio ambiente, paz y seguridad internacional. El ministerio administra embajadas y consulados, además de trabajar en el fortalecimiento de la integración regional.
 
-### *Ministerio de Desarrollo Agrario (Ministério do Desenvolvimento Agrário)*
+### *Ministerio de Minas y Energía (Ministério de Minas e Energia)* 🔋
 
+El Ministerio de Minas y Energía es un organismo con competencia en materias como la creación de políticas nacionales para la utilizaciones de recursos energeñticos, la
+integración del sistema eléctrico, la sostenibilidad y desarrollo económico, social y ambiental de los recursos eléctricos, energéticos y minerales. También formula las Políticas
+tarifarias para el sector eléctrico y d eintegración energética con otros países entre otras. 
 
+### *Ministerio de Desarrollo Agrario (Ministério do Desenvolvimento Agrário)* 🌾
 
-### *Ministerio de Desarrollo Regional (Ministério do Desenvolvimento Regional)*
+El Ministerio de Desarrollo Agrario y Agricultura Familiar (MDA), tiene competencia en las siguientes áreas: reforma agraria y regularización de tierras en zonas rurales de Unión y el Instituto Nacional de Colonización y Reforma Agraria (Incra); 
+la identificación, reconocimiento, delimitación, demarcación y titulación de tierras pertenecientes a comunidades quilombolas; desarrollo rural sostenible dirigido a la agricultura familiar, 
+los quilombolas y otros pueblos y comunidades tradicionales; sistemas locales de suministro de alimentos; compras públicas de productos y alimentos de la agricultura familiar; comercialización, 
+suministro, almacenamiento y garantía de precios mínimos; stocks regulatorios y estratégicos de productos agrícolas; biodiversidad, conservación, protección y uso del patrimonio genético de interés 
+para la agricultura familiar; y otros.
+
+### *Ministerio de Integración y Desarrollo Regional (Ministério da Integração Desenvolvimento Regional)*
 
 
 
