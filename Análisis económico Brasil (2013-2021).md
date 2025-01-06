@@ -326,26 +326,27 @@ para la agricultura familiar; y otros.
 
 ### *Ministerio de Integración y Desarrollo Regional (Ministério da Integração Desenvolvimento Regional)*
 
+El Ministerio de Integración y Desarrollo Regional de Brasil es el encargado de implementar políticas nacionales para el desarrollo regional, riego, ordenamiento territorial, protección civil, y gestión de riesgos y catástrofes. Asimismo, establece directrices para fondos de financiamiento constitucionales y de desarrollo en el Norte, Nordeste y Centro-Oeste, y gestiona programas de crédito y seguridad hídrica. Su objetivo principal es promover infraestructura y desarrollo sostenible en las regiones del país.
 
+### *Ministerio de Deportes (Ministério do Esporte)* 🏃
 
-### *Ministerio de Deportes (Ministério do Esporte)*
+El Ministerio de Deportes de Brasil tiene como función de garantizar los derechos de los atletas así como coordinar programas del deporte. También se encarga de gestionar las infraestructuras deportivas y la regulación de las acciones antidopaje. Asimismo, a través de incentivos y políticas públicas, promueve la participación ciudadana en actividades deportivas. Busca fomentar la práctica deportiva como herramienta de inclusión social, salud y desarrollo humano. 
 
+### *Ministerio de Medio Ambiente y Cambio Climático (Ministério do Meio Ambiente e Mudança do Clima)*
 
-
-### *Ministerio de Medio Ambiente (Ministério do Meio Ambiente)*
-
-
+El Ministerio de Medio Ambiente y Cambio Climático (MMA) tiene la misión de formular e implementar políticas públicas ambientales encaminadas a proteger el medio ambiente y promover el desarrollo socioeconómico sostenible. Cuenta con el apoyo de sus entidades afines en la protección y conservación del medio ambiente, siendo estas el Instituto Brasileño de Medio Ambiente y Recursos Renovables – IBAMA; el Instituto Chico Mendes para la Conservación de la Biodiversidad – ICMBio; y el Instituto de Investigaciones del Jardín Botánico de Río de Janeiro – JBRJ que trabajan por la protección y conservación del medio ambiente. Tiene competencia en áreas como la política ambiental nacional y sobre el cambio climático la creación de estrategias, mecanismos e instrumentos regulatorios y económicos para mejorar la calidad ambiental y el uso sostenible de los recursos naturales, entre otras.
 
 ### *Ministerio de Trabajo y Empleo (Ministério do Trabalho e Emprego)*
 
-
+El Ministerio de Trabajo y Empleo tiene competencia en asuntos sobre política y directrices para la generación de empleo, renta y apoyo al trabajador; políticas y directrices para la modernización de las relaciones de trabajo, así como su fsicalización. También se encarga de ña aplicación de als sanciones previstas en las ley, y realiza la política salarias. Anualmente realiza una encuesta llamada Relación Anual de Informaciones Sociales (RAIS) que comprende los aspectos del trabajo y los empresarios brasileños, similar a la ETCL que realiza el INE en España, en cuanto al enfoque de recopilar datos laborales. 
 
 ### *Ministerio de Turismo (Ministério do Turismo)*
 
-
+El Ministerio de Turismo tiene competencias en asuntos sobre política nacional de desarrollo turístico sostenible, la promoción y difusión del turismo nacional tanto en el país, como en el exterior; la planificación, coordinación, supervisión y evaluación de planes y programas de incentivos turísticos entre otras. 
 
 ### *Presidencia de la República (Presidência da República)*
 
+La Presidencia de la Republica de Brasil la ocupa actualmente Luiz Inácio Lula da Silva, quien actúa como presidente del país, es el jede de Estado y jede de Gobierno de la República Federativa de Brasil.
 
 ## 6. Balances
 
