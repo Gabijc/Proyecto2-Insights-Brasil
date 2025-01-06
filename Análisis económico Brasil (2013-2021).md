@@ -221,11 +221,18 @@ La Procuraduría General de la Unión (AGU) es la institución que representa a 
 
 El Procurador General de la Unión, entre otras funciones, debe asesorar directa, inmediata y personalmente al Presidente de la República, dirigir la AGU y representar a la Unión ante el Supremo Tribunal Federal.
 
+La Procuraduría General de la Unión ha recaudado un total de 334,962,977.49 $ entre 2013 y 2021, representando esto un 8,99 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2015, y a partir de ese año la recaudación se ve reducida de forma anual.
+
+`imagen temporal`
+
 ### *Contraloría General de la Unión (Controladoria-Geral da União)*
 
 La Contraloría General de la Unión (CGU) es el órgano del gobierno federal encargado de defender los bienes públicos y aumentar la transparencia en la gestión, a través de acciones de control interno, auditoría pública, corrección, defensoría del pueblo y prevención y combate a la corrupción.  
 
 La CGU también ejerce, como órgano central, la supervisión técnica de los órganos que integran el Sistema de Control Interno, el Sistema Correccional (Siscor), el Sistema de Defensoría del Pueblo (SisOuv) y el Sistema de Integridad Pública (Sipef) del Poder Ejecutivo federal, proporcionando la orientación normativa necesaria
+
+
+`imagen temporal`
 
 ### *Ministerio de Agricultura, Ganadería y Abastecimiento (Ministério da Agricultura, Pecuária e Abastec)* 🐤
 
