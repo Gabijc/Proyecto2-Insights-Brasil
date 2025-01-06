@@ -214,62 +214,117 @@ Se compone de los denominados *Otros ingresos de capital*, los cuales registran 
 
 En la administración pública de Brasil nos encontramos con los siguientes ministerios:
 
-*Procuraduría General de la Unión*
-*Contraloría General de la Unión*
-*Ministerio de Agricultura, Ganadería y Abastecimiento*
-*Ministerio de la Ciudadanía*
-*Ministerio de Ciencia, Tecnología e Innovación*
+### *Procuraduría General de la Unión (Advocacia-Geral da União)*
 
-El Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações ) es el órganismo con competencias en áreas como la  formulación de políticas nacionales de ciencia, tecnología e innovación, así como la planificación y supervisión de actividades en las áreas mencionadas. S encarga asimismo de las políticas de transformación digital, espacial, y nuclear, entre otros muchos. 
-La responsable actual del ministerio es Luciana Santos, del Partido Comunista de Brasil (PCdoB).
+La Procuraduría General de la Unión (AGU) es la institución que representa a la Unión, judicial y extrajudicialmente, ya sea de forma directa o a través de un organismo vinculado. Es responsable de las actividades de consultoría y asesoría jurídica del Poder Ejecutivo. La AGU es una Institución prevista por la Constitución Federal, y tiene el carácter de Función Esencial de la Justicia, por lo que no está vinculada a ninguno de los tres Poderes que representa.
 
-*Ministerio de Defensa*
-*Ministerio de Economía*
-*Ministerio de Educación*
-*Ministerio de Infraestructuras*
-*Ministerio de Justicia y Seguridad Pública*
-*Ministerio de la Mujer, la Familia y los Derechos Humanos*
-*Ministerio de Pesca y Acuicultura*
-*Ministerio de Bienestar Social*
-*Ministerio de Sanidad*
-*Ministerio de Comunicaciones*
-*Ministerio de la Mujer, Igualdad Racial*
-*Ministerio de Asuntos Exteriores*
-*Ministerio de Minas y Energía*
-*Ministerio de Desarrollo Agrario*
-*Ministerio de Desarrollo Regional*
-*Ministerio de Deportes*
-*Ministerio de Medio Ambiente*
-*Ministerio de Trabajo y Empleo*
-*Ministerio de Turismo*
-*Presidencia de la República*
+El Procurador General de la Unión, entre otras funciones, debe asesorar directa, inmediata y personalmente al Presidente de la República, dirigir la AGU y representar a la Unión ante el Supremo Tribunal Federal.
+
+### *Contraloría General de la Unión (Controladoria-Geral da União)*
+
+La Contraloría General de la Unión (CGU) es el órgano del gobierno federal encargado de defender los bienes públicos y aumentar la transparencia en la gestión, a través de acciones de control interno, auditoría pública, corrección, defensoría del pueblo y prevención y combate a la corrupción.  
+
+La CGU también ejerce, como órgano central, la supervisión técnica de los órganos que integran el Sistema de Control Interno, el Sistema Correccional (Siscor), el Sistema de Defensoría del Pueblo (SisOuv) y el Sistema de Integridad Pública (Sipef) del Poder Ejecutivo federal, proporcionando la orientación normativa necesaria
+
+### *Ministerio de Agricultura, Ganadería y Abastecimiento (Ministério da Agricultura, Pecuária e Abastec)* 🐤
+
+El Ministerio de Agricultura y Ganadería (Mapa) es responsable de gestionar las políticas públicas para incentivar la agricultura, promover los agronegocios y regular y normalizar los servicios vinculados al sector. En Brasil, el agronegocio incluye a pequeños, medianos y grandes productores rurales y agrupa actividades de suministro de bienes y servicios para la agricultura, producción agrícola, procesamiento, transformación y distribución de productos de origen agrícola al consumidor final.  🐄
+
+Así, el Ministerio de Agricultura busca integrar bajo su gestión los aspectos comerciales, tecnológicos, científicos, ambientales y organizacionales del sector productivo, además de la gestión de la política económica y financiera de los agronegocios. Con la integración del desarrollo sostenible y la competitividad, el Mapa pretende garantizar la seguridad alimentaria de la población brasileña y la producción de excedentes para la exportación, fortaleciendo el sector productivo nacional y favoreciendo la inserción de Brasil en el mercado internacional.   
+
+### *Ministerio de los Derechos Humanos y la Ciudadanía (Ministério dos Direitos Humanos e da Cidadania)* 👪
+
+El Ministerio de Derechos Humanos y Ciudadanía es responsable de la coordinación interministerial e intersectorial de las políticas de promoción y protección de los Derechos Humanos en Brasil. Tiene competencias en materias sobre la creación de políticas encaminadas a promover los derechos humanos; de apoyo a iniciativas encaminadas a la defensa de los derechos humanos, respetando los fundamentos constitucionales; de educación en derechos humanos, para promover el reconocimiento y valoración de la dignidad de la persona humana en su totalidad; y combatir todas las formas de violencia, prejuicio, discriminación e intolerancia. Ejerce el rol de defensor del pueblo en asuntos relacionados con los derechos humanos
+
+### *Ministerio de Ciencia, Tecnología e Innovación* 🔬
+
+El Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações ) es el órganismo con competencias en áreas como la  formulación de políticas nacionales de ciencia, tecnología e innovación, así como la planificación y supervisión de actividades en las áreas mencionadas. S encarga asimismo de las políticas de transformación digital, espacial, y nuclear, entre otros muchos. La responsable actual del ministerio es Luciana Santos, del Partido Comunista de Brasil (PCdoB).
+
+### *Ministerio de Defensa (Ministério da Defesa)* 🚓
+
+El Ministerio de Defensa tiene como misión esclarecer y movilizar a la sociedad brasileña en torno a una Estrategia de Defensa Nacional que garantice los intereses y la soberanía de Brasil. Los principales objetivos de la defensa son garantizar la soberanía, el patrimonio nacional y la integridad territorial así como defender los intereses naiconales, las personas, los bienes y los recursos brasileños en el exterior, entre otros muchos. 
+
+Según la  Política de Defensa Nacional , la Defensa Nacional es  el conjunto de medidas y acciones del Estado, con énfasis en la expresión militar, para la defensa del territorio, la soberanía y los intereses nacionales frente a amenazas predominantemente externas, potenciales o manifiestas 
+
+### *Ministerio de Economía/ Hacienda (Ministério da Economia/Fazenda)* 💰
+
+Es importante tener en cuenta que el ministerio de economía fue sumprimido en 2023 y en su lugar fueron creados los siguientes ministerios: Ministerio de Hacienda, Ministerio de Gestión e Innovación de los Servicios Públicos, Ministerio de Desarrollo, Industria, Comercio y Servicios y Ministerio de Planificación y Presupuesto. A contnuación nos centramos en el ministerio de hacienda, ya que es el cual tiene competencias sobre política económica, ya que es el punto a cubrir en este caso.
+
+El Ministerio de Hacienda es el órgano de la estructura administrativa de la República Federativa del Brasil responsable de la formulación y ejecución de la política económica. La misión del Ministerio de Hacienda es formular, implementar y gestionar políticas y reformas económicas para el desarrollo y crecimiento económico, promoviendo la productividad, con cuentas públicas equilibradas, equidad fiscal y social, protección de la sociedad y mitigación de los efectos adversos del cambio climático. Este ministerio tiene competencias en áreas como la administración y contabilidad pública, la administración de la deuda pública interna y externa, la formulación de políticas de precios, la inspección y el control del comercio exterior, entre otras. 
+
+### *Ministerio de Educación (Ministério da Educação)* 📚
+
+EL Ministerio de Educación tiene competencias sobre la política educativa nacional, la educación en general, incluyendo educación infantil, educación primaria, educación secundaria, educación superior, educación de jóvenes y adultos, educación profesional y tecnológica, educación especial y educación a distancia, excepto educación militar, la asistencia económica a familias necesitadas para la escolarización de sus hijos o dependientes, entre otras competencias. 
+
+### *Ministerio de Infraestructuras/Transportes (Ministério da Infraestrutura/dos Transportes)* 🚊
+
+El Ministerio de Transporte tiene competencias sobre la política nacional de transporte ferroviario y por carretera, el desarrollo de infraestructuras y superestructuras ferroviarias y viales en el ámbito de su competencia, con el fin de promover la seguridad y eficiencia del transporte de cargas y pasajeros, entre otras. 
+
+### *Ministerio de Justicia y Seguridad Pública (Ministério da Justiça e Segurança Pública)* 👮
+
+El Ministerio de Justicia y Seguridad Pública - MJSP es un órgano directo de la administración pública federal, que tiene entre sus responsabilidades la defensa del orden jurídico, los derechos políticos y las garantías constitucionales; la coordinación del Sistema Único de Seguridad Pública; y la defensa del orden económico nacional y los derechos de los consumidores. El MJSP también trabaja para combatir el tráfico de drogas y delitos conexos, incluso mediante la recuperación de activos que financian o resultan de estas actividades delictivas, así como para prevenir y combatir la corrupción, el lavado de dinero y la financiación del terrorismo. El alcance total de los poderes regulatorios del MJSP se puede ver en el Decreto N° 11.348 , de 1 de enero de 2023
+
+### *Ministerio de la Mujer (Ministério da Mulher, Família e Direitos Huma)* 🙆‍♀️
+
+El Ministerio de la Mujer es responsable de formular, coordinar y ejecutar políticas y lineamientos para garantizar los derechos de las mujeres. El Ministerio de la Mujer también es responsable de la coordinación intersectorial y transversal con organismos públicos en los tres niveles de gestión (Unión, estados y municipios), entidades públicas y privadas y organizaciones de la sociedad civil.
+
+Asimismo es función de este ministerio desarrollar e implementar campañas educativas y contra la discriminación a nivel nacional, además de ser responsable de promover y ejecutar programas de cooperación con organismos nacionales e internacionales, públicos o privados, para la implementación de políticas para las mujeres, y monitorear el cumplimiento de la legislación sobre acciones afirmativas, así como definir acciones para el cumplimiento de acuerdos, convenios y acciones. planes para garantizar la igualdad de género y combatir la discriminación
+
+### *Ministerio de Pesca y Acuicultura (Ministério da Pesca e Aquicultura)* 🐙
 
 
-'Advocacia-Geral da União', 
-'Controladoria-Geral da União',
-       'Ministério da Agricultura, Pecuária e Abastec',
-       'Ministério da Cidadania',
-       '',
-       'Ministério da Defesa', 
-       'Ministério da Economia',
-       'Ministério da Educação', 
-       'Ministério da Infraestrutura',
-       'Ministério da Justiça e Segurança Pública',
-       'Ministério da Mulher, Família e Direitos Huma',
-       'Ministério da Pesca e Aquicultura',
-       'Ministério da Previdência Social', 
-       'Ministério da Saúde',
-       'Ministério das Comunicações',
-       'Ministério das Mulheres, Igualdade Racial, da',
-       'Ministério das Relações Exteriores',
-       'Ministério de Minas e Energia',
-       'Ministério do Desenvolvimento Agrário',
-       'Ministério do Desenvolvimento Regional', 
-       'Ministério do Esporte',
-       'Ministério do Meio Ambiente', 
-       'Ministério do Trabalho e Emprego',
-       'Ministério do Turismo', 
-       'Presidência da República'
+El Ministerio de Pesca y Acuicultura de Brasil tiene la misión de formular, coordinr e implementar las políticas públicas relacionadas con el desarrollo sostenible de la pesca y la acuicultura en el país. Sus funciones incluyen la gestión de recursos pesqueros, la promoción de la acuicultura, la supervisión del cumplimiento de normativas relacionadas con la pesca y la acuicultura, y el combate a la pesca ilegal y promoción de prácticas responsables, entre otras.
+
+### *Ministerio de Bienestar Social (Ministério da Previdência Social)*
+
+
+
+### *Ministerio de Sanidad (Ministério da Saúde)*
+
+
+
+### *Ministerio de Comunicaciones (Ministério das Comunicações)*
+
+
+
+### *Ministerio de la Mujer, Igualdad Racial (Ministério das Mulheres, Igualdade Racial)*
+
+
+
+### *Ministerio de Asuntos Exteriores (Ministério das Relações Exteriores)*
+
+
+
+### *Ministerio de Minas y Energía (Ministério de Minas e Energia)*
+
+
+
+### *Ministerio de Desarrollo Agrario (Ministério do Desenvolvimento Agrário)*
+
+
+
+### *Ministerio de Desarrollo Regional (Ministério do Desenvolvimento Regional)*
+
+
+
+### *Ministerio de Deportes (Ministério do Esporte)*
+
+
+
+### *Ministerio de Medio Ambiente (Ministério do Meio Ambiente)*
+
+
+
+### *Ministerio de Trabajo y Empleo (Ministério do Trabalho e Emprego)*
+
+
+
+### *Ministerio de Turismo (Ministério do Turismo)*
+
+
+
+### *Presidencia de la República (Presidência da República)*
+
 
 ## 6. Balances
 
@@ -307,6 +362,9 @@ https://portal.fazenda.sp.gov.br/acessoinformacao/Downloads/Webservice/Conceitos
 
 - Diferencia entre hecho generador y hecho imponible:
 https://revistas.uexternado.edu.co/index.php/fiscal/article/view/9165/15813
+
+- Información sobre los Ministerios de Brasil:
+https://www.gov.br/pt-br/orgaos-do-governo
 
 
 estadisticas fiscales gobierno brasil:
