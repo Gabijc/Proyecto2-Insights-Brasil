@@ -85,15 +85,29 @@ def info_cat(dataframe, categoria):
 
     return ingresos_categoria
 
+
 # Función que nos devuelve información sobre un ministerio en concreto
 def info_ministerio(dataframe, ministerio):
 
-    info_min = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio]
+    numero = int(input("Si quieres la información general introduce 1, si quieres la información info_ministerio introduce 2, si quieres la información por unidad detallada itroduce 2: "))
+    
+    if numero == 1:
 
-    print(f"Los órganos de los que se compone el {ministerio} son: {info_min["NOME ÓRGÃO"].unique()}")
-    print(f"Las unidades gestoras que componen los órganos del {ministerio} son: {info_min["NOME UNIDADE GESTORA"].unique()}")
-    print(f"Los ingresos entre 2013 y 2025 del {ministerio} son: \n")
-    return info_cat(info_min, "NOME ÓRGÃO SUPERIOR")
+        info_min = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio]
+        print(f"Los órganos de los que se compone el {ministerio} son: {info_min["NOME ÓRGÃO"].unique()}")
+        print(f"Las unidades gestoras que componen los órganos del {ministerio} son: {info_min["NOME UNIDADE GESTORA"].unique()}")
+        print(f"Los ingresos entre 2013 y 2025 del {ministerio} son: \n")
+        return info_cat(info_min, "NOME ÓRGÃO SUPERIOR")
+    
+    elif numero == 2:
+
+        temporal = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio].groupby("ANO EXERCÍCIO")[["VALOR LANÇADO","VALOR REALIZADO"]].sum()
+        return temporal
+    
+    elif numero == 3:
+
+        organos = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio].groupby(["NOME ÓRGÃO","NOME UNIDADE GESTORA"])[["VALOR PREVISTO ATUALIZADO", "VALOR LANÇADO","VALOR REALIZADO"]].sum().round(2)
+        return organos
 
 # Función para gráficas temporales que comparan dos variables
 def evolucion_temporal(dataframe, eje_x, ejes_y):

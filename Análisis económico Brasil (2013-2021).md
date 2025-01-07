@@ -231,6 +231,7 @@ La Contraloría General de la Unión (CGU) es el órgano del gobierno federal en
 
 La CGU también ejerce, como órgano central, la supervisión técnica de los órganos que integran el Sistema de Control Interno, el Sistema Correccional (Siscor), el Sistema de Defensoría del Pueblo (SisOuv) y el Sistema de Integridad Pública (Sipef) del Poder Ejecutivo federal, proporcionando la orientación normativa necesaria
 
+La Contraloría General de la Unión ha recaudado un total de 740.692.856 $ entre 2013 y 2021, representando esto un 1,02 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2017, año a partir del cual los ingresos de este ministerio se ven completamente reducidos a cero.
 
 `imagen temporal`
 
@@ -279,7 +280,6 @@ El Ministerio de la Mujer es responsable de formular, coordinar y ejecutar polí
 Asimismo es función de este ministerio desarrollar e implementar campañas educativas y contra la discriminación a nivel nacional, además de ser responsable de promover y ejecutar programas de cooperación con organismos nacionales e internacionales, públicos o privados, para la implementación de políticas para las mujeres, y monitorear el cumplimiento de la legislación sobre acciones afirmativas, así como definir acciones para el cumplimiento de acuerdos, convenios y acciones. planes para garantizar la igualdad de género y combatir la discriminación
 
 ### *Ministerio de Pesca y Acuicultura (Ministério da Pesca e Aquicultura)* 🐙
-
 
 El Ministerio de Pesca y Acuicultura de Brasil tiene la misión de formular, coordinar e implementar las políticas públicas relacionadas con el desarrollo sostenible de la pesca y la acuicultura en el país. Sus funciones incluyen la gestión de recursos pesqueros, la promoción de la acuicultura, la supervisión del cumplimiento de normativas relacionadas con la pesca y la acuicultura, y el combate a la pesca ilegal y promoción de prácticas responsables, entre otras.
 
