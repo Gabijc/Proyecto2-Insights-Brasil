@@ -92,8 +92,8 @@ def info_ministerio(dataframe, ministerio):
 
     print(f"Los órganos de los que se compone el {ministerio} son: {info_min["NOME ÓRGÃO"].unique()}")
     print(f"Las unidades gestoras que componen los órganos del {ministerio} son: {info_min["NOME UNIDADE GESTORA"].unique()}")
-    print(f"Los ingresos entre 2013 y 2025 del {ministerio} se ")
-    return fs.info_cat(info_min, "NOME ÓRGÃO SUPERIOR")
+    print(f"Los ingresos entre 2013 y 2025 del {ministerio} son: \n")
+    return info_cat(info_min, "NOME ÓRGÃO SUPERIOR")
 
 # Función para gráficas temporales que comparan dos variables
 def evolucion_temporal(dataframe, eje_x, ejes_y):
