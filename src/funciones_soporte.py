@@ -85,6 +85,16 @@ def info_cat(dataframe, categoria):
 
     return ingresos_categoria
 
+# Función que nos devuelve información sobre un ministerio en concreto
+def info_ministerio(dataframe, ministerio):
+
+    info_min = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio]
+
+    print(f"Los órganos de los que se compone el {ministerio} son: {info_min["NOME ÓRGÃO"].unique()}")
+    print(f"Las unidades gestoras que componen los órganos del {ministerio} son: {info_min["NOME UNIDADE GESTORA"].unique()}")
+    print(f"Los ingresos entre 2013 y 2025 del {ministerio} se ")
+    return fs.info_cat(info_min, "NOME ÓRGÃO SUPERIOR")
+
 # Función para gráficas temporales que comparan dos variables
 def evolucion_temporal(dataframe, eje_x, ejes_y):
     sns.lineplot(x = eje_x, 
