@@ -107,6 +107,7 @@ def info_ministerio(dataframe, ministerio):
     elif numero == 3:
 
         organos = dataframe[dataframe["NOME ÓRGÃO SUPERIOR"] == ministerio].groupby(["NOME ÓRGÃO","NOME UNIDADE GESTORA"])[["VALOR PREVISTO ATUALIZADO", "VALOR LANÇADO","VALOR REALIZADO"]].sum().round(2)
+        organos["porcentaje_recaudacion"] = round((organos["VALOR REALIZADO"]/organos["VALOR PREVISTO ATUALIZADO"])* 100, 2)
         return organos
 
 # Función para gráficas temporales que comparan dos variables

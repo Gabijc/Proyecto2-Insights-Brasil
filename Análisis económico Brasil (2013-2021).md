@@ -221,7 +221,7 @@ La Procuraduría General de la Unión (AGU) es la institución que representa a 
 
 El Procurador General de la Unión, entre otras funciones, debe asesorar directa, inmediata y personalmente al Presidente de la República, dirigir la AGU y representar a la Unión ante el Supremo Tribunal Federal.
 
-La Procuraduría General de la Unión ha recaudado un total de 334,962,977.49 $ entre 2013 y 2021, representando esto un 8,99 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2015, y a partir de ese año la recaudación se ve reducida de forma anual.
+La Procuraduría General de la Unión ha recaudado un total de 334.962.977,49 $ entre 2013 y 2021, representando esto un 8,99 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2015, y a partir de ese año la recaudación hasta llegar a los 0 dólares a partir de 2020.
 
 `imagen temporal`
 
@@ -231,7 +231,7 @@ La Contraloría General de la Unión (CGU) es el órgano del gobierno federal en
 
 La CGU también ejerce, como órgano central, la supervisión técnica de los órganos que integran el Sistema de Control Interno, el Sistema Correccional (Siscor), el Sistema de Defensoría del Pueblo (SisOuv) y el Sistema de Integridad Pública (Sipef) del Poder Ejecutivo federal, proporcionando la orientación normativa necesaria
 
-La Contraloría General de la Unión ha recaudado un total de 740.692.856 $ entre 2013 y 2021, representando esto un 1,02 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2017, año a partir del cual los ingresos de este ministerio se ven completamente reducidos a cero.
+La Contraloría General de la Unión ha recaudado un total de 740.692.856 $ entre 2013 y 2021, representando esto un 1,02 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2017, año a partir del cual los ingresos de este ministerio se ven completamente reducidos entre 2018 y 2021.
 
 `imagen temporal`
 
@@ -241,19 +241,52 @@ El Ministerio de Agricultura y Ganadería (Mapa) es responsable de gestionar las
 
 Así, el Ministerio de Agricultura busca integrar bajo su gestión los aspectos comerciales, tecnológicos, científicos, ambientales y organizacionales del sector productivo, además de la gestión de la política económica y financiera de los agronegocios. Con la integración del desarrollo sostenible y la competitividad, el Mapa pretende garantizar la seguridad alimentaria de la población brasileña y la producción de excedentes para la exportación, fortaleciendo el sector productivo nacional y favoreciendo la inserción de Brasil en el mercado internacional.   
 
+El Ministerio de Agricultura, Ganadería y Abastecimiento ha recaudado un total de 56.433.953.381,26 $, representando esto un 64,5 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. El año en el que más ha recaudado ha sido 2017. Observamos que la recaudación es relativamente constante, con picos inferiores en 2014 y 2018. 
+
+`imagen temporal`
+
+Este Ministerio está compuesto por 8 órganos: la Companhia Nacional de Abastecimento; la Empresa Brasileira de Pesquisa Agropecuária; el Fundo de Defesa da Economia Cafeeira; el Fundo de Terras e da Reforma Agrária; el Instituto Nacional de Colonização e Reforma Agrária; Ministério da Agricultura, Pecuária e Abastecimento - Unidades com vínculo direto; la Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário; y el Serviço Florestal Brasileiro. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por el FUNCAFE, órgano que ha recaudado un total de 35.393.834.816,34 € en los 8 años. El Fondo de Defensa de la Economía Cafetera es un organismo cuyo propósito es apoyar la industria cafetera brasileña, mediante finaciamiento e incentivos a la modernización del cultivo del café, con el objetivo de aumentar su consumo y aumentar el mercado cafetero. La menor recaudación ha sido realizada por la Empresa Brasileira de Pesquisa Agropecuária, con un total de 401.143.266,07 $. La EMBRAPA es una compañía afiliada al gobierno brasileño, cuyo objetivo es la investigación en la agricultura. El CREDITO FUNDIARIO, el cual forma parte del Fundo de Terras e da Reforma Agrária, junto al Instituto Nacional de Colonização e Reforma Agrária, han sido los únicos organismo que han recaudado ingresos superiores a lo previsto. La recaudación es en todo momento superior al registro de ingresos. 
+
 ### *Ministerio de los Derechos Humanos y la Ciudadanía (Ministério dos Direitos Humanos e da Cidadania)* 👪
 
-El Ministerio de Derechos Humanos y Ciudadanía es responsable de la coordinación interministerial e intersectorial de las políticas de promoción y protección de los Derechos Humanos en Brasil. Tiene competencias en materias sobre la creación de políticas encaminadas a promover los derechos humanos; de apoyo a iniciativas encaminadas a la defensa de los derechos humanos, respetando los fundamentos constitucionales; de educación en derechos humanos, para promover el reconocimiento y valoración de la dignidad de la persona humana en su totalidad; y combatir todas las formas de violencia, prejuicio, discriminación e intolerancia. Ejerce el rol de defensor del pueblo en asuntos relacionados con los derechos humanos
+El Ministerio de Derechos Humanos y Ciudadanía es responsable de la coordinación interministerial e intersectorial de las políticas de promoción y protección de los Derechos Humanos en Brasil. Tiene competencias en materias sobre la creación de políticas encaminadas a promover los derechos humanos; de apoyo a iniciativas encaminadas a la defensa de los derechos humanos, respetando los fundamentos constitucionales; de educación en derechos humanos, para promover el reconocimiento y valoración de la dignidad de la persona humana en su totalidad; y combatir todas las formas de violencia, prejuicio, discriminación e intolerancia. Ejerce el rol de defensor del pueblo en asuntos relacionados con los derechos humanos.
 
-### *Ministerio de Ciencia, Tecnología e Innovación* 🔬
+El Ministerio de los Derechos Humanos y la Ciudadanía ha recaudado un total de 5.143.388.129,18 $, representando esto un 11,70 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. La recaudación se mantiene constante hasta 2018, año en el que cae brsucamente. A prtir de ese momento muestra una tendencia al alza, estando el máximo de recaudación en 2021.  
+
+`imagen temporal`
+
+El Ministerio de los Derechos Humanos y la Ciudadanía se compone de los siguientes órganos: Fundo Nacional de Assistência Social; Ministério da Cidadania - Unidades com vínculo direto. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por el SETORIAL DE ORCAMENTO E FINANCAS/MC, unidad con vínculo directo. La menor recaudación ha sido realizada por la COORD.GERAL DE PLAN. ORC. FIN. E CONTAB./MINC, también unidad con vñinculo directo. Esta última ha tenido una recaudación muy superior a ña prevista, hbiéndose recaudado un 7.312,55 % dentro de lo  previsto. 
+
+
+### *Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações)* 🔬
 
 El Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações ) es el órganismo con competencias en áreas como la  formulación de políticas nacionales de ciencia, tecnología e innovación, así como la planificación y supervisión de actividades en las áreas mencionadas. S encarga asimismo de las políticas de transformación digital, espacial, y nuclear, entre otros muchos. La responsable actual del ministerio es Luciana Santos, del Partido Comunista de Brasil (PCdoB).
+
+`El Ministerio de Ciencia, Tecnología e Innovación ha recaudado un total de $, representando esto un % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. La recaudación se mantiene constante hasta 2018, año en el que cae brsucamente. A partir de ese momento muestra una tendencia al alza, estando el máximo de recaudación en 2021. `
+
+`imagen temporal`
+
+`Este Ministerio se compone de los siguientes órganos:  .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. `
+
+`La mayor recaudación ha sido realizada por , unidad con vínculo directo. La menor recaudación ha sido realizada por , también unidad con vñinculo directo. `
 
 ### *Ministerio de Defensa (Ministério da Defesa)* 🚓
 
 El Ministerio de Defensa tiene como misión esclarecer y movilizar a la sociedad brasileña en torno a una Estrategia de Defensa Nacional que garantice los intereses y la soberanía de Brasil. Los principales objetivos de la defensa son garantizar la soberanía, el patrimonio nacional y la integridad territorial así como defender los intereses naiconales, las personas, los bienes y los recursos brasileños en el exterior, entre otros muchos. 
 
 Según la  Política de Defensa Nacional , la Defensa Nacional es  el conjunto de medidas y acciones del Estado, con énfasis en la expresión militar, para la defensa del territorio, la soberanía y los intereses nacionales frente a amenazas predominantemente externas, potenciales o manifiestas 
+
+El Ministerio de Defensa ha recaudado un total de 	104.665.740.965,96 $, representando esto un 52,72 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. La recaudación mantiene una tendencia al alza de forma constante entre 2013 y 2021, con la excepción de una pequeña caída en 2018. 
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes órganos: Amazônia Azul Tecnologia de Defesa S.A.; Caixa de Construções de Casas para o Pessoal da Marinha do Brasil; Caixa de Financiamento Imobiliário da Aeronáutica; Comando da Aeronáutica; Comando da Marinha; Comando da Marinha - Fundo Naval; Comando do Exército; Fundação Osório; Fundo Aeronáutico; Fundo Aeroviário; Fundo de Desenvolvimento do Ensino Profissional Marítimo; Fundo do Exército; Indústria de Material Bélico do Brasil; Ministério da Defesa - Unidades com vínculo direto.Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La mayor recaudación ha sido realizada por el DEPARTAMENTO DE PLANEJ, ORC E FINANCAS (MD), unidad con vínculo directo, con un totoal de 31.908.352.637,61 $. La menor recaudación ha sido realizada por el Fundo do Exército, con un total de 11.459,50 dólares.
 
 ### *Ministerio de Economía/ Hacienda (Ministério da Economia/Fazenda)* 💰
 
@@ -357,6 +390,8 @@ La Presidencia de la Republica de Brasil la ocupa actualmente Luiz Inácio Lula 
 
 ## 6. Balances
 
+### Contables
+
 | CATEGORIA ECONÔMICA                    | ORIGEM RECEITA                              | VALOR PREVISTO ATUALIZADO    | VALOR LANÇADO             | VALOR REALIZADO           |
 |----------------------------------------|---------------------------------------------|------------------------------|---------------------------|---------------------------|
 | **Receitas Correntes**                 | Contribuições                               | 7.224.633.087.504,00         | 3.220.620.507.720,18      | 6.877.089.890.534,66      |
@@ -382,6 +417,10 @@ La Presidencia de la Republica de Brasil la ocupa actualmente Luiz Inácio Lula 
 | **Receitas de Capital - intra-orçamentárias** | Alienação de Bens                      | 0,00                         | 0,00                      | 108.886.708,01            |
 |                                        | Operações de Crédito                        | 10.808.411.537,00            | 0,00                      | 28.141.949.016,32         |
 | **Sem informação**                     | Sem informação                              | 0,00                         | 2.812.347.576,39          | 46,57                     |
+
+### Por Ministerio
+
+#### Ministerio de agrisultura
 
 
 ## 8. Bibliografia
