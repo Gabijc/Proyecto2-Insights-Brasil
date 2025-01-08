@@ -294,32 +294,79 @@ Es importante tener en cuenta que el ministerio de economía fue sumprimido en 2
 
 El Ministerio de Hacienda es el órgano de la estructura administrativa de la República Federativa del Brasil responsable de la formulación y ejecución de la política económica. La misión del Ministerio de Hacienda es formular, implementar y gestionar políticas y reformas económicas para el desarrollo y crecimiento económico, promoviendo la productividad, con cuentas públicas equilibradas, equidad fiscal y social, protección de la sociedad y mitigación de los efectos adversos del cambio climático. Este ministerio tiene competencias en áreas como la administración y contabilidad pública, la administración de la deuda pública interna y externa, la formulación de políticas de precios, la inspección y el control del comercio exterior, entre otras. 
 
+El Ministerio de Economía ha recaudado un total de 24.709.753.338.137,24 $, representando esto un 93,29 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 5.367.369.003.775,87 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza de forma constante entre 2013 y 2021, con la excepción de una caída en 2017 y otra en 2019. Los registros de lo recaudado presentan una tendencia diferente a lo ingresado. Observamos una caída importante en 2015, año a partir del cual los ingresos se mantienen de forma constante hasta 2020, año en eñ que se produce un ligero incremento, que se reduce de nuevo en 2021.  
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes órganos: Ministério da Economia - Unidades com vínculo direto; Instituto Nacional de Metrologia, Qualidade e Tecnologia; Instituto Nacional do Seguro Social; Fundação Instituto Brasileiro de Geografia e Estatística; Superintendência da Zona Franca de Manaus; Banco Central do Brasil - Orçamento Fiscal e Seguridade Social; Fundo de Amparo ao Trabalhador; Superintendência de Seguros Privados; Superintendência Nacional de Previdência Complementar; Instituto Nacional da Propriedade Industrial; Comissão de Valores Mobiliários; Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho; Fundação Escola Nacional de Administração Pública; Fundo Constitucional do Distrito Federal; Serviço Federal de Processamento de Dados; Fundo de Garantia à Exportação; Companhia de Entrepostos e Armazéns Gerais de São Paulo; Fundo de Compensação de Variações Salariais; Casa da Moeda do Brasil; Fundo de Estabilidade do Seguro Rural; Instituto de Pesquisa Econômica Aplicada; Fundo de Garantia para a Promoção da Competitividade; Fundo Contingente da Extinta RFFSA-FCMP; Fundo Nacional de Desenvolvimento; Fundo Soberano do Brasil; Fundo de Apoio ao Desenvolvimento Social; Fundo do Regime Geral da Previdência Social; Reserva de Contingência.Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La mayor recaudación ha sido realizada por el SETORIAL ORÇAMENTÁRIA E FINANCEIRA / ME, unidad con vínculo directo, con un total de 20.870.899.752.169,65 $. Nos encontramos que en todas las unidades vinculadas que son procuradurias de hacienda hay ingresos registrados, pero no hay ingresos recaudados, estos últimos tienen un valor igual a 0. 
+
 ### *Ministerio de Educación (Ministério da Educação)* 📚
 
 EL Ministerio de Educación tiene competencias sobre la política educativa nacional, la educación en general, incluyendo educación infantil, educación primaria, educación secundaria, educación superior, educación de jóvenes y adultos, educación profesional y tecnológica, educación especial y educación a distancia, excepto educación militar, la asistencia económica a familias necesitadas para la escolarización de sus hijos o dependientes, entre otras competencias. 
 
+El Ministerio de Educación ha recaudado un total de 221.589.353.642,78 $, representando esto un 36,35 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 3.516.427,16 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza de forma constante entre 2013 y 2021.   
+
+`imagen temporal`
+
+Este Ministerio se compone de 132 organizaciones, que son universidades, fundaciones, institutos. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. La mayor recaudación ha sido realizada por el Fundo Nacional de Desenvolvimento da Educação, con un total recaudado de 208.127.603.107,80 $. La menor recaudación ha sido realizada por el Instituto Federal Flumiense, con un total de 0 dólares ingresados. Ambos organismo presentan registros de ingresos. 
+
 ### *Ministerio de Infraestructuras/Transportes (Ministério da Infraestrutura/dos Transportes)* 🚊
 
-El Ministerio de Transporte tiene competencias sobre la política nacional de transporte ferroviario y por carretera, el desarrollo de infraestructuras y superestructuras ferroviarias y viales en el ámbito de su competencia, con el fin de promover la seguridad y eficiencia del transporte de cargas y pasajeros, entre otras. 
+El Ministerio de Transporte tiene competencias sobre la política nacional de transporte ferroviario y por carretera, el desarrollo de infraestructuras y superestructuras ferroviarias y viales en el ámbito de su competencia, con el fin de promover la seguridad y eficiencia del transporte de cargas y pasajeros, entre otras.
+
+El Ministerio de Infraestructuras/Transporte ha recaudado un total de 136.206.900.382,34 $, representando esto un 113,53 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza, con un pico en 2017 en el cual los ingresos se incrementan de forma considerable. En 2018 se ven reducidos, y a partir de ese año aumentan de nuevo. 
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismo: Agência Nacional de Aviação Civil; Departamento Nacional de Infraestrutura de Transportes; Agência Nacional de Transportes Terrestres; Departamento do Fundo da Marinha Mercante; Fundo Nacional de Segurança e Educação de Trânsito; Ministério da Infraestrutura - Unidades com vínculo direto; Agência Nacional de Transportes Aquaviários; Secretaria de Portos; VALEC Engenharia, Construções e Ferrovias S.A.; Fundo Nacional de Aviação Civil; Empresa de Planejamento e Logística S.A.; Secretaria de Aviação Civil; Companhia Docas do Estado de São Paulo; Companhia Docas do Estado da Bahia; Companhia Docas do Ceará; Companhia Docas do Rio de Janeiro; Companhia Docas do Rio Grande do Norte; Companhia Docas do Pará; Companhia Docas do Espírito Santo; Departamento Nacional de Estradas de Rodagem. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por el Fundo de la Marina Mercante, con un total recaudado de 66.494.838.673,82 $. La menor recaudación ha sido realizada por el Departamento Nacional de Carreteras, con un total de 2.453,96 dólares ingresados.
 
 ### *Ministerio de Justicia y Seguridad Pública (Ministério da Justiça e Segurança Pública)* 👮
 
 El Ministerio de Justicia y Seguridad Pública - MJSP es un órgano directo de la administración pública federal, que tiene entre sus responsabilidades la defensa del orden jurídico, los derechos políticos y las garantías constitucionales; la coordinación del Sistema Único de Seguridad Pública; y la defensa del orden económico nacional y los derechos de los consumidores. El MJSP también trabaja para combatir el tráfico de drogas y delitos conexos, incluso mediante la recuperación de activos que financian o resultan de estas actividades delictivas, así como para prevenir y combatir la corrupción, el lavado de dinero y la financiación del terrorismo. El alcance total de los poderes regulatorios del MJSP se puede ver en el Decreto N° 11.348 , de 1 de enero de 2023
 
+El Ministerio de Justicia y Seguridad Pública ha recaudado un total de 136.206.900.382,34 $, representando esto un 113,53 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza, con un pico en 2017 en el cual los ingresos se incrementan de forma considerable. En 2018 se ven reducidos, y a partir de ese año aumentan de nuevo. 
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismo: Agência Nacional de Aviação Civil; Departamento Nacional de Infraestrutura de Transportes; Agência Nacional de Transportes Terrestres; Departamento do Fundo da Marinha Mercante; Fundo Nacional de Segurança e Educação de Trânsito; Ministério da Infraestrutura - Unidades com vínculo direto; Agência Nacional de Transportes Aquaviários; Secretaria de Portos; VALEC Engenharia, Construções e Ferrovias S.A.; Fundo Nacional de Aviação Civil; Empresa de Planejamento e Logística S.A.; Secretaria de Aviação Civil; Companhia Docas do Estado de São Paulo; Companhia Docas do Estado da Bahia; Companhia Docas do Ceará; Companhia Docas do Rio de Janeiro; Companhia Docas do Rio Grande do Norte; Companhia Docas do Pará; Companhia Docas do Espírito Santo; Departamento Nacional de Estradas de Rodagem. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor y la menor recaudación se encuentran en el Departamento de la Policía federal. La mayor recaudación ha sido realizada por la unidad de corrdinación de presupuestos, finanzas y contabilidad del departamento, con un total de 5.917.477.754,82 dólares, y la menor por el departamento de coordinación del presupuesto y finanzas del departamento, el cual es mucho más pequeño que el departamento anterior. 
+
 ### *Ministerio de la Mujer (Ministério da Mulher, Família e Direitos Huma)* 🙆‍♀️
 
 El Ministerio de la Mujer es responsable de formular, coordinar y ejecutar políticas y lineamientos para garantizar los derechos de las mujeres. El Ministerio de la Mujer también es responsable de la coordinación intersectorial y transversal con organismos públicos en los tres niveles de gestión (Unión, estados y municipios), entidades públicas y privadas y organizaciones de la sociedad civil.
 
-Asimismo es función de este ministerio desarrollar e implementar campañas educativas y contra la discriminación a nivel nacional, además de ser responsable de promover y ejecutar programas de cooperación con organismos nacionales e internacionales, públicos o privados, para la implementación de políticas para las mujeres, y monitorear el cumplimiento de la legislación sobre acciones afirmativas, así como definir acciones para el cumplimiento de acuerdos, convenios y acciones. planes para garantizar la igualdad de género y combatir la discriminación
+Asimismo es función de este ministerio desarrollar e implementar campañas educativas y contra la discriminación a nivel nacional, además de ser responsable de promover y ejecutar programas de cooperación con organismos nacionales e internacionales, públicos o privados, para la implementación de políticas para las mujeres, y monitorear el cumplimiento de la legislación sobre acciones afirmativas, así como definir acciones para el cumplimiento de acuerdos, convenios y acciones. planes para garantizar la igualdad de género y combatir la discriminación.
+
+El Ministerio de la Mujer ha recaudado un total de 211.689.152,70 $, representando esto un 25,10 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza, con un pico en 2019 en el cual los ingresos se incrementan de forma considerable. En 2020 se ven reducidos de forma brusca.
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismo: Secretaria Nacional de Políticas para Mulheres; Fundo Nacional do Idoso; Fundo Nacional para a Criança e o Adolescente; Ministério da Mulher, Família e Direitos Humanos - Unidades com vínculo direto .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por el Fondo Nacional para la Infancia y la Adolescencia con un total de 82.983.217,77 $. La menor recaudación ha sido realizada por las unidades con vínculo directo, con un total de 452.377,95 dólares. 
 
 ### *Ministerio de Pesca y Acuicultura (Ministério da Pesca e Aquicultura)* 🐙
 
 El Ministerio de Pesca y Acuicultura de Brasil tiene la misión de formular, coordinar e implementar las políticas públicas relacionadas con el desarrollo sostenible de la pesca y la acuicultura en el país. Sus funciones incluyen la gestión de recursos pesqueros, la promoción de la acuicultura, la supervisión del cumplimiento de normativas relacionadas con la pesca y la acuicultura, y el combate a la pesca ilegal y promoción de prácticas responsables, entre otras.
 
+El Ministerio de Pesca y Acuicultura ha recaudado un total de 57.749.317,66 $, representando esto un 141,06 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia a la baja, y podemos observar que solo hay registros hasta 2016. Esto puede deberse a la disolución de este ministerio en 2019, y puede ser que los datos se perdiesen o no se registrasen. 
+
+`imagen temporal`
+
 ### *Ministerio de Bienestar Social (Ministério da Previdência Social)* 🙌
 
 El Ministerio de Bienestar Social de Brasil gestiona los programas de seguridad social, promoviendo el acceso a pensiones y asistencia para la población más vulnerable, a través del Instituto Nacional del Seguro Social (INSS). 
 Asimismo, administra los sistemas de previsión social, asegurando la cobertura de salud y bienestar para los ciudadanos, y gestiona los fondos para la protección social. Su objetivo es reducir las desigualdades sociales y garantizar una red de apoyo a los trabajadores y pensionistas.
+
+El Ministerio de Bienestar Social ha recaudado un total de 14.240.783,79 $, representando esto un 38,15 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación mantiene una tendencia al alza desde 2013 hasta 2015, año en el que observamos una brusca caída. A partir del año 2017 observamos que los ingresos son negativos. Estos ingresos se corresponden con devoluciones de indemnizaciones y reembolsos así como con servicios administrativos.
+
+`imagen temporal`
+ 
 
 ### *Ministerio de Sanidad (Ministério da Saúde)* 🏥
 
