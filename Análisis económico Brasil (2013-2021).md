@@ -26,13 +26,18 @@ EN Brasil, a la hora de generar presupuestos, se registran los siguientes ingres
  
 Entre 2013 y 2021 la recaudación de ingresos públicos presenta una tendencia al alza. Aún así observamos que la recaudación anual presenta valores inferiores en todos los años respecto de la previsión recaudada. Principalmente vemos una importante reducción en la recaudación anual en 2017, año en el cual se esperaba ingresar un total de 3.414.379.614.681,84 $, de los cuales se ingresaron solo un 74,92 %. 
 
-![alt text](imagenes/image.png)
 
+<div style="text-align: center;">
+    <img src="imagenes/image.png" alt="alt text" />
+</div>
 
+<br>
 En cuanto al registro de ingresos, y la recaudación final observamos enormes diferencias. El registro de un ingreso contable debe ser igual al ingreso final recibido por la entidad recaudadora. En este caso no se cumple este principio. Vemos que durante todo el período analizado el registro de ingresos presenta una tendencia a la baja, mientras que los ingresos realmente recaudados presentan una tendencia al alza. Se están registrando menos ingresos de los que se están recuadando realmente. Más abajo observaremos qué entidades administrativas presentan mayores diferencias en este aspecto, ya que intuimos la existencia de fraude público.
 
-![alt text](imagenes/image-1.png)
-
+<br>
+<div style="text-align: center;">
+    <img src="imagenes/image-1.png" alt="alt text" />
+</div>
 
 ## 3. Análisis contable de los ingresos de Brasil
 
@@ -370,46 +375,71 @@ El Ministerio de Bienestar Social ha recaudado un total de 14.240.783,79 $, repr
 
 ### *Ministerio de Sanidad (Ministério da Saúde)* 🏥
 
-El Ministerio de Sanidad está integrado dentro del Sistema Único de Salud (SUS) junto al Departamento de Salud del Estado y el Departamento Municipal de Salud. 
-El Ministerio de Sanidad como Gestor nacional del SUS, formula, regula, fiscaliza, monitorea y evalúa políticas y acciones, en conjunto con el Consejo Nacional 
-de Salud. Actúa en el ámbito de la Comisión Tripartita Intergestores para acordar el Plan Nacional de Salud. Su función principal es  proporcionar condiciones 
-para la protección y recuperación de la salud de la población, reduciendo enfermedades, controlando enfermedades endémicas y parasitarias y mejorando la vigilancia
-de la salud, proporcionando así una mejor calidad de vida a los brasileños.
+El Ministerio de Sanidad está integrado dentro del Sistema Único de Salud (SUS) junto al Departamento de Salud del Estado y el Departamento Municipal de Salud. El Ministerio de Sanidad como Gestor nacional del SUS, formula, regula, fiscaliza, monitorea y evalúa políticas y acciones, en conjunto con el Consejo Nacional de Salud. Actúa en el ámbito de la Comisión Tripartita Intergestores para acordar el Plan Nacional de Salud. Su función principal es  proporcionar condiciones para la protección y recuperación de la salud de la población, reduciendo enfermedades, controlando enfermedades endémicas y parasitarias y mejorando la vigilancia de la salud, proporcionando así una mejor calidad de vida a los brasileños.
+
+El Ministerio de Sanidad ha recaudado un total de 37.786.245.892,63 $, representando esto un 80,99 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 125.949.190,83 dólares, una cifra inferior a lo recaudado realmente. La recaudación entre 2013 y 2021 presenta diferencias en tendencias. Hasta 2016 presenta tendencia al alza, alcanzando la recaudación máxima en este año. A prtir de ese punto presenta una reducción considerable año a año, presentando el punto de recaudación más bajo en 2021.
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismos: Fundação Nacional de Saúde; Fundação Oswaldo Cruz; Hospital Nossa Senhora da Conceição S.A.; Ministério da Saúde - Unidades com vínculo direto; Agência Nacional de Saúde Suplementar; Agência Nacional de Vigilância Sanitária; Hospital Cristo Redentor S.A.; Hospital Fêmina S.A. .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por las unidades con vínculo directo con un total de 29.537.567.956,19 $. Dentro de la Fundación Nacional de la Salud nos encotramos que todas las unidades, a excepción de la situada en el Distrito Federal, han tenido una recaudación nula. Además, en la unidad del Distrito Federal tenemos una previsión de recaudación, pero un registro nulo, al contrario que en el retso de unidades, que tienen una previsión nula, pero tienen un registro de impuestos. Por otro lado, en la Agencia Nacional de Vigilancia sanitaria se ha recaudado un importe superior al previsto, pero el registro de lo recaudado no coincide con los ingresos finales.   
 
 
 ### *Ministerio de Comunicaciones (Ministério das Comunicações)* 📢
 
-El Ministerio de Comunicaciones es un órgano de administración federal directa que fue creado en junio de 2020, tras la separación del Ministerio de Ciencia, 
-Tecnología e Innovaciones.  El departamento fue creado con el objetivo de fortalecer las áreas de política nacional de telecomunicaciones, política nacional 
-de radiodifusión; y servicios postales, telecomunicaciones y radiodifusión. Tiene competencia en materias sobre política nacional de telecomunicaciones, política
-de radiofusión y los servicios postales, telecomunicaciones y radiofusión. 📺
+El Ministerio de Comunicaciones es un órgano de administración federal directa que fue creado en junio de 2020, tras la separación del Ministerio de Ciencia, Tecnología e Innovaciones.  El departamento fue creado con el objetivo de fortalecer las áreas de política nacional de telecomunicaciones, política nacional de radiodifusión; y servicios postales, telecomunicaciones y radiodifusión. Tiene competencia en materias sobre política nacional de telecomunicaciones, política de radiofusión y los servicios postales, telecomunicaciones y radiofusión. 📺
+
+El Ministerio de Comunicaciones ha recaudado un total de 	40.047.759.133,20 $, representando esto un 79,61 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 11.831,64 dólares, una cifra inferior a lo recaudado realmente. La recaudación entre 2013 y 2021 presenta variaciones. Inicialmente, presenta una tendencia ascendente hasta 2015, punto en el que comienza a reducirse hasta 2017, año en el que se incrementa hasta su pico máximo de recaudación en 2018. A partir de este año la tendencia en a la baja hasta 2021. 
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismos: Ministério das Comunicações - Unidades com vínculo direto; Empresa Brasil de Comunicação; Agêncial Nacional de Telecomunicações; Fundo de Universalização dos Serviços de Telecomunicações; Fundo para o Desenvolvimento Tecnológico das Telecomunicações; TELECOMUNICACOES BRASILEIRAS S/A .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
+
+La mayor recaudación ha sido realizada por la Agencia Nacional de telecomunicaciones con un total de 18.018.890.765,26 $. La unidad de Coordinación General de Recursoso Logísticos, parte de las unidades con vínculo directo al Ministerio, es la única unidad que tiene una previsión nula, así como una recaudación nula, pero con un registro de ingresos, al contrario que el resto de unidades y organismos que tienen previsión y recaudación pero no registro.  
 
 ### *Ministerio de Igualdad Racial (Igualdade Racial)*  👫
 
-El Ministerio de Igualdad Racial se estructura en tres secretarías: Secretaría de Políticas de Acción Afirmativa y de Combate y Superación del Racismo; 
-Secretaría de Gestión del Sistema Nacional de Promoción de la Igualdad Racial y  Secretaría de Políticas para Quilombolas, Pueblos y Comunidades Tradicionales 
-de Origen Africano y Gitanos. Su función es promover políticas para combatir el racismo así como garantizar la equidad racial en el país, enfocándose en la inclusión 
-social de comunidades afrodescendientes, quilombolas y otros grupos tradicionales, implementando acciones afirmaticas y asgurando el acceso a derechos básicos. 
+El Ministerio de Igualdad Racial se estructura en tres secretarías: Secretaría de Políticas de Acción Afirmativa y de Combate y Superación del Racismo; Secretaría de Gestión del Sistema Nacional de Promoción de la Igualdad Racial y  Secretaría de Políticas para Quilombolas, Pueblos y Comunidades Tradicionales de Origen Africano y Gitanos. Su función es promover políticas para combatir el racismo así como garantizar la equidad racial en el país, enfocándose en la inclusión social de comunidades afrodescendientes, quilombolas y otros grupos tradicionales, implementando acciones afirmaticas y asgurando el acceso a derechos básicos. 
+
+El Ministerio de Igualdad Racial ha recaudado un total de 136.845.774,52 $, representando esto un 124,75 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación de este ministerio entre 2013 y 2015 fue ascendente, con su máximo en este último año. Sim emargo a partir de ese momento presenta una tendencia descendente, con una brusca caída en la recaudación en 2017, punto a partir del cual los ingresos se mantienen en valores bajos.  
+
+`imagen temporal`
+
+Este Ministerio se compone del Fundo Nacional do Idoso y el Fundo Nacional para a Criança e o Adolescente. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. De ambos organismos ha tenido una recaudación superior el Fundo Nacional para la infancia y la adolescencia. 
 
 ### *Ministerio de Asuntos Exteriores (Ministério das Relações Exteriores)* 🌎
 
-El Ministerio de Relaciones Exteriores de Brasil, también conocido como Itamaraty por el nombre del palacio que aloja su sede, es el encargado de coordinar y ejecutar
- la política exterior de Brasil, mediante su representación en foros internacionales y manteniendo relaciones diplomáticas. Sus funciones incluyen fomentar la cooperación
-  internacional, facilitar el comercio exterior, promover inversiones y proteger a los ciudadanos brasileños en el exterior. También aborda temas globales como derechos humanos, medio ambiente, paz y seguridad internacional. El ministerio administra embajadas y consulados, además de trabajar en el fortalecimiento de la integración regional.
+El Ministerio de Relaciones Exteriores de Brasil, también conocido como Itamaraty por el nombre del palacio que aloja su sede, es el encargado de coordinar y ejecutar la política exterior de Brasil, mediante su representación en foros internacionales y manteniendo relaciones diplomáticas. Sus funciones incluyen fomentar la cooperación internacional, facilitar el comercio exterior, promover inversiones y proteger a los ciudadanos brasileños en el exterior. También aborda temas globales como derechos humanos, medio ambiente, paz y seguridad internacional. El ministerio administra embajadas y consulados, además de trabajar en el fortalecimiento de la integración regional.
+
+El Ministerio de Asuntos Exteriores ha recaudado un total de 	2.931.914.529,32 $, representando esto un 55,02 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La recaudación entre 2013 y 2021 presenta variaciones. Inicialmente, presenta una tendencia ascendente hasta 2017, punto en el que comienza a reducirse de manera constante hasta el final del período analizado.  
+
+`imagen temporal`
+
+Este Ministerio se compone de la Fundação Alexandre de Gusmão (FUNAG), una fundación que se encarga de la organización de debates y la difusión de conocimientos sobre la política exterior de Brasil y temas de relaciones internacional; y las unidades con vínculo directo. En este ministerio la recaudación máxima ha sido realizada por la Coordenación general de Presupuestos y Finanzas del ministerio. Por otro lado, nos encontramos con ingresos negativos  en la unidad de Diferencia de Cambio. Todos esos ingresos están clasificados como ingresos corrientes, y entendemos que tendrá influencia el tipo de cambio en el valor de estos ingresos. 
 
 ### *Ministerio de Minas y Energía (Ministério de Minas e Energia)* 🔋
 
-El Ministerio de Minas y Energía es un organismo con competencia en materias como la creación de políticas nacionales para la utilizaciones de recursos energeñticos, la
-integración del sistema eléctrico, la sostenibilidad y desarrollo económico, social y ambiental de los recursos eléctricos, energéticos y minerales. También formula las Políticas
-tarifarias para el sector eléctrico y d eintegración energética con otros países entre otras. 
+El Ministerio de Minas y Energía es un organismo con competencia en materias como la creación de políticas nacionales para la utilizaciones de recursos energéticos, la integración del sistema eléctrico, la sostenibilidad y desarrollo económico, social y ambiental de los recursos eléctricos, energéticos y minerales. También formula las Políticas tarifarias para el sector eléctrico y de integración energética con otros países entre otras. 
+
+El Ministerio de Minas y Energía ha recaudado un total de 191.485.924.485,02 $, representando esto un 54,06 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 13.136.233.568,97 dólares, una cifra inferior a lo recaudado realmente. Temporalmente, desde 2013 hasta 2016 la recaudación presenta una tendencia ascendente. Entre 2016 y 2018 sufre una caía, pero en 2019 presenta un brusco incremento. En 2020 se produce una fuerte caída. 
+
+`imagen temporal`
+
+Este Ministerio se compone de los siguientes organismos: Indústrias Nucleares do Brasil, Companhia de Pesquisa de Recursos Minerais, Ministério de Minas e Energia - Unidades com vínculo direto, Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Departamento Nacional de Produção Mineral, Agência Nacional de Energia Elétrica, Empresa de Pesquisa Energética, Nuclebrás Equipamentos Pesados S.A., Agência Nacional de Mineração. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La máxima recaudación ha sido realizada por la Agencia Nacional de Petróleo, gas Natural y biocombustibles, habiendo recaudado un total de 90.904.481.263,39 dólares. La menor recaudación ha sido por parte de la Empresa de Investigación Energética. Por otro lado, observamos que los registros de ingresos se han dado solamente en la Agencia Nacional de Energía Eléctrica, la Agencia Nacional de Minería, y la Compañía de Investigación de Recursos Mineros. En ninguno de los casos el registro es igual a la recaudación.
 
 ### *Ministerio de Desarrollo Agrario (Ministério do Desenvolvimento Agrário)* 🌾
 
-El Ministerio de Desarrollo Agrario y Agricultura Familiar (MDA), tiene competencia en las siguientes áreas: reforma agraria y regularización de tierras en zonas rurales de Unión y el Instituto Nacional de Colonización y Reforma Agraria (Incra); 
-la identificación, reconocimiento, delimitación, demarcación y titulación de tierras pertenecientes a comunidades quilombolas; desarrollo rural sostenible dirigido a la agricultura familiar, 
-los quilombolas y otros pueblos y comunidades tradicionales; sistemas locales de suministro de alimentos; compras públicas de productos y alimentos de la agricultura familiar; comercialización, 
-suministro, almacenamiento y garantía de precios mínimos; stocks regulatorios y estratégicos de productos agrícolas; biodiversidad, conservación, protección y uso del patrimonio genético de interés 
+El Ministerio de Desarrollo Agrario y Agricultura Familiar (MDA), tiene competencia en las siguientes áreas: reforma agraria y regularización de tierras en zonas rurales de Unión y el Instituto Nacional de Colonización y Reforma Agraria (Incra); la identificación, reconocimiento, delimitación, demarcación y titulación de tierras pertenecientes a comunidades quilombolas; desarrollo rural sostenible dirigido a la agricultura familiar, las quilombolas y otros pueblos y comunidades tradicionales; sistemas locales de suministro de alimentos; compras públicas de productos y alimentos de la agricultura familiar; comercialización, suministro, almacenamiento y garantía de precios mínimos; stocks regulatorios y estratégicos de productos agrícolas; biodiversidad, conservación, protección y uso del patrimonio genético de interés 
 para la agricultura familiar; y otros.
+
+El Ministerio de Desarrollo Agrario ha recaudado un total de 514.953.670,74 $, representando esto un 92,23 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. Los ingresos presentan una tendencia ascendente hasta 2015, año en el que comienzan a reducirse hasta su mínimo en 2017. Solo hay datos hasta este último año. 
+
+`imagen temporal`
+
+En este caso solo nos encontramos con la existencia de las unidades con vínculo directo. 
 
 ### *Ministerio de Integración y Desarrollo Regional (Ministério da Integração Desenvolvimento Regional)*
 
