@@ -453,6 +453,14 @@ El Ministerio de Deportes de Brasil tiene como función de garantizar los derech
 
 El Ministerio de Medio Ambiente y Cambio Climático (MMA) tiene la misión de formular e implementar políticas públicas ambientales encaminadas a proteger el medio ambiente y promover el desarrollo socioeconómico sostenible. Cuenta con el apoyo de sus entidades afines en la protección y conservación del medio ambiente, siendo estas el Instituto Brasileño de Medio Ambiente y Recursos Renovables – IBAMA; el Instituto Chico Mendes para la Conservación de la Biodiversidad – ICMBio; y el Instituto de Investigaciones del Jardín Botánico de Río de Janeiro – JBRJ que trabajan por la protección y conservación del medio ambiente. Tiene competencia en áreas como la política ambiental nacional y sobre el cambio climático la creación de estrategias, mecanismos e instrumentos regulatorios y económicos para mejorar la calidad ambiental y el uso sostenible de los recursos naturales, entre otras.
 
+El Ministerio de Medio Ambiente y Cambio Climático ha recaudado un total de 7.127.409.730,62 $, representando esto un 58,87 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 4.506 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos que ha habido variaciones en la recaudación. Entre 2015 y 2017 observamos que hay un periodo de incremento en los ingresos, pero a partir de 2017 se produce una tendencia a la baja en los siguientes años, hasta 2020, año en el que empieza a producirse un incremento de los ingresos. 
+
+`imagen temporal`
+
+El Ministerio de Medio Ambiente se compone de los siguientes órganos: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Ministério do Meio Ambiente - Unidades com vínculo direto, Fundo Nacional sobre Mudança no Clima, Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, Instituto Chico Mendes de Conservação da Biodiversidade, Fundo Nacional do Meio Ambiente, Companhia de Desenvolvimento de Barcarena. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La máxima recaudación ha sido realizada por la matriz del Instituto Brasileño de Medioambiente y Recursos Naturales, con una recaudación totañ de 4.253.188.648,81 dólares. Nos encontramos que el resto de órganos de este Instituto han recaudado cero dólares, además de haber resgitro de ingresos en dos de ellos, la Superintendencia de Sao Paulo y la de Espírito Santo.  
+
 ### *Ministerio de Trabajo y Empleo (Ministério do Trabalho e Emprego)*
 
 El Ministerio de Trabajo y Empleo tiene competencia en asuntos sobre política y directrices para la generación de empleo, renta y apoyo al trabajador; políticas y directrices para la modernización de las relaciones de trabajo, así como su fsicalización. También se encarga de ña aplicación de als sanciones previstas en las ley, y realiza la política salarias. Anualmente realiza una encuesta llamada Relación Anual de Informaciones Sociales (RAIS) que comprende los aspectos del trabajo y los empresarios brasileños, similar a la ETCL que realiza el INE en España, en cuanto al enfoque de recopilar datos laborales. 
@@ -461,9 +469,25 @@ El Ministerio de Trabajo y Empleo tiene competencia en asuntos sobre política y
 
 El Ministerio de Turismo tiene competencias en asuntos sobre política nacional de desarrollo turístico sostenible, la promoción y difusión del turismo nacional tanto en el país, como en el exterior; la planificación, coordinación, supervisión y evaluación de planes y programas de incentivos turísticos entre otras. 
 
+El Ministerio de Turismo ha recaudado un total de 13.535.637.878,06 $, representando esto un 97,88 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 51.866.238,80 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos que ha habido variaciones en la recaudación. Entre 2013 y 2017 presenta pequeños incrementos y descensos en cada año. En 2018 se observa una caída brusca, que alcanza la recaudación mínima. A partir de ese año, hasta 2020 la recaudación presenta una tendencia al alza, con un incremento fuerte, hasta 2021, año en el que se produce una ligera reducción de los ingresos. 
+
+`imagen temporal`
+
+El Ministerio de Tursimo se compone de los siguientes órganos: Fundação Casa de Rui Barbosa, Instituto Brasileiro de Turismo, Instituto Brasileiro de Museus, Instituto do Patrimônio Histórico e Artístico Nacional, Fundação Nacional de Artes, Fundo Nacional de Cultura, Agência Nacional do Cinema, Ministério do Turismo - Unidades com vínculo direto, Fundação Cultural Palmares, Fundação Biblioteca Nacional, Fundo Geral de Turismo. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La máxima recaudación ha sido realizada por el Fundo Nacional de Cultura, y la menor recaudación ha sido por parte de la Fundación Casa Rui Barbosa. Por otro lado, solo encontramos registro de ingresos en la Agencia Nacional del Cine, mientras que en el resto de órganos hay un registro nulo de ingresos. 
+
 ### *Presidencia de la República (Presidência da República)*
 
-La Presidencia de la Republica de Brasil la ocupa actualmente Luiz Inácio Lula da Silva, quien actúa como presidente del país, es el jede de Estado y jede de Gobierno de la República Federativa de Brasil.
+La Presidencia de la Republica de Brasil la ocupa actualmente Luiz Inácio Lula da Silva, quien actúa como presidente del país, es el jefe de Estado y jefe de Gobierno de la República Federativa de Brasil.
+
+La Presidencia de la república ha recaudado un total de 16.491.839.911,74 $, representando esto un 25,72 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. La evolución de la recaudación presenta una tendencia al alza, con un brsuco incremento en 2017, y llegando a sus máximos en 2020, año en el que se produce una caída de los ingresos.
+
+`imagen temporal`
+
+La Presidencia se compone de los siguientes órganos: Presidência da República; Secretaria de Políticas de Promoção da Igualdade Racial; Secretaria de Direitos Humanos; Fundo de Imprensa Nacional; Secretaria da Micro e Pequena Empresa; Instituto Nacional de Tecnologia da Informação; Gabinete da Vice-Presidência da República; Fundo Nacional Antidrogas; Secretaria de Assuntos Estratégicos. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo recaudado un total de 14.624.394.871,41 dólares. La menor recaudación ha sido por parte de la Secretaría de Asuntos Estratégicos. Por otro lado, observamos que hay predicciones de recaudación en solo algunos órganos, que son los siguientes: el Fondo Nacional de Prensa, la Vicepresidencia de la República, el Instituto Nacional de Tecnología de la Información, la Secretaría de la Micro y Pequeña Empresa y la Presidencia. 
 
 ## 6. Balances
 
