@@ -148,11 +148,21 @@ ingresos corrientes no clasificados en las partidas anteriores:
 - Multas e intereses de demora: importe de los ingresos recaudados por sanciones pecuniarias derivadas del incumplimiento de la normativa. 
 - Indemnizaciones y reembolsos: importe de los ingresos recaudados en concepto de indemnizaciones y reembolsos.
 - Ingresos de la deuda activa: ingresos recaudados de la deuda activa, consistentes en créditos tributarios y no tributarios del erario público.
--  Ingresos varios: valor de los ingresos recaudados que no se ajustan a las especificaiciones anteriores. 
+- Ingresos varios: valor de los ingresos recaudados que no se ajustan a las especificaiciones anteriores. 
 
-![inmagen ing corrientes](imagenes/ingresos%20corrientes.png)
+La principal fuente de los ingresos corrientes son las contribuciones junto a los ingresos tributarios, es decir, los impuestos, tasas y contribuciones de mejora. Por otro lado nos encontramos con una recaudación nula en los ingresos agropecuarios, los ingresos industriales y las transferencias corrientes. En el grupo de  otros ingresos corrientes observamos que el importe es negativo. 
 
-`Dentro de los ingresos corrientes nos encontramos que la principal fuente de estos ingresos son las contribuciones y los ingresos fiscales, los cuales se componen por los impuestos, tasas y contribuciones de mejoría. Estas dos categorías son asimismo las que han recibido una mayor previsión de ingresos. Al fin y al cabo se componen de los ingresos procedentes de la recudación de impuestos, tasa y contribuciones, así como de las contribuciones sociales. Estos son los principales ingresos de una economía por norma general. Como es de esperar, la mayor diferencia entre lo recaudado y lo registrado es superior en estas categorías.Los orígenes con menor volumen de ingresos son las rentas agrarias, las cuales proceden de la actividad o explotación agraria de origen vegetal o animal.La previsión de estsos ingresos es bastante baja asimismo. Nos encontramos que hay un registro nulo en las rentas agropecuarias, las rentas industriales, y las rentas de servicios.`
+| ORIGEM RECEITA                                      | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
+|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
+| Contribuições                                       | 7.224.633.087.504,00        | 3.220.620.507.720,18        | 6.877.089.890.534,66        | 95,19                | 3.656.469.382.814,48        |
+| Impostos, Taxas e Contribuições de Melhoria        | 4.510.202.085.939,00        | 2.020.808.903.486,62        | 4.287.304.858.124,57        | 95,06                | 2.266.495.954.637,95        |
+| Outras Receitas Correntes                           | 428.858.259.677,00          | 136.055.962.948,35          | 371.983.192.854,63          | 86,74                | 235.927.229.906,28          |
+| Receita Agropecuária                                | 230.056.327,00              | 0,00                        | 212.916.430,85              | 92,55                | 212.916.430,85              |
+| Receita Industrial                                  | 18.734.738.626,00           | 0,00                        | 17.941.345.587,65           | 95,77                | 17.941.345.587,65           |
+| Receita Patrimonial                                 | 922.303.174.656,03          | 380.086.767,00              | 957.242.133.633,19          | 103,79               | 956.862.046.866,19          |
+| Receita de Serviços                                 | 439.803.742.964,11          | 0,00                        | 409.260.662.661,21          | 93,06                | 409.260.662.661,21          |
+| Receitas Correntes - a classificar                 | 0,00                         | 5.042.321,57                | -15.471.989.712,32          | Previsión de 0       | -15.477.032.033,89          |
+| Transferências Correntes                            | 4.761.797.513,00            | 0,00                        | 3.780.118.794,99            | 79,38                | 3.780.118.794,99            |
 
 
 #### 2 - Ingresos corrientes - intrapresupuestarios
@@ -171,7 +181,17 @@ Estos ingresos registran el valor de la recaudación de los ingresos procedentes
 
 Incluye los ingresos corrientes de otras fuentes, no clasificables en los anteriores. 
 
-`insertar gráfico y análisis`
+La principal fuente de los ingresos corrientes intrapresupuestarios son las contribuciones junto a los clasificados como otros ingresos. Por otro lado nos encontramos que en los ingresos tributarios presentan un importe es negativo.
+
+| ORIGEM RECEITA                                       | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
+|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
+| Contribuições                                       | 190.615.572.904,00          | 0,00                        | 166.514.271.351,59          | 87,36                | 166.514.271.351,59          |
+| Impostos, Taxas e Contribuições de Melhoria        | 8.679.239,00               | 0,00                        | -12.147.875,22              | -139,96              | -12.147.875,22              |
+| Outras Receitas Correntes                           | 98.478.861.468,00          | 0,00                        | 123.592.727.703,21          | 125,50               | 123.592.727.703,21          |
+| Receita Industrial                                  | 1.381.739.049,00           | 0,00                        | 1.314.822.119,85           | 95,16                | 1.314.822.119,85           |
+| Receita Patrimonial                                 | 45.380.166,00              | 0,00                        | 92.745.808,59              | 204,38               | 92.745.808,59              |
+| Receita de Serviços                                 | 954.793.093,00             | 0,00                        | 1.149.371.591,87           | 120,38               | 1.149.371.591,87           |
+
 
 #### 3 - Ingresos de Capital
 
@@ -205,7 +225,16 @@ Estos fondos son aquellos percibidos de otras entidades públicas o privadas, in
 
 Se trata de ingresos de capital procedentes de otras fuentes, no clasificados en los anteriores. Registran el importe de otros ingresis percibidos, de carácter ocasional, no incluidos en el plan contable. Los ingresos de capital que no cumplan las especificaciones anteriores se clasifican en esta partida. 
 
-`insertar gráfico y análisis`
+La principal fuente de ingresos de los considerados como ingresos de capital son las operaciones de de crédito, junto a las clasificadas como otros ingresos de capital.
+
+| ORIGEM RECEITA                                       | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
+|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
+| Alienação de Bens                                   | 69.459.904.322,00           | 0,00                        | 26.925.014.385,03           | 38,76                | 26.925.014.385,03           |
+| Amortizações de Empréstimos                         | 468.392.937.016,00          | 0,00                        | 799.034.542.267,89          | 170,59               | 799.034.542.267,89          |
+| Operações de Crédito                                | 12.776.862.878.819,19       | 3.813.949,42                | 9.857.797.506.467,94        | 77,15                | 9.857.793.692.518,52        |
+| Outras Receitas de Capital                          | 1.169.948.076.486,00        | 0,00                        | 1.722.900.919.485,78        | 147,26               | 1.722.900.919.485,78        |
+| Transferências de Capital                           | 1.089.634.563,40            | 0,00                        | 478.697.459,15              | 43,93                | 478.697.459,15              |
+
 
 #### 4 - Ingresos de capital - intrapresupuestarios
 
@@ -213,7 +242,13 @@ Los ingresos de capital intrapresupuestarios proceden de las sociedades estatale
 
 Se compone de los denominados *Otros ingresos de capital*, los cuales registran el importe percibido por otros ingresos vinculados al incremento del patrimonio de la unidad. Dentro de esta categoría tenemos el *pago del capital social* el cual registra el valor de los fondos recibidos por empresas públicas dependientes como pago de su capital social.  
 
-`insertar gráfico y análisis`
+En este caso las operaciones de crédito han tenido una recaudación superior.
+
+| ORIGEM RECEITA             | VALOR PREVISTO ATUALIZADO | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
+|---------------------------|---------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
+| Alienação de Bens         | 0,00                      | 0,00                        | 108.886.708,01              | Previsión de 0       | 108.886.708,01              |
+| Operações de Crédito      | 10.808.411.537,00         | 0,00                        | 28.141.949.016,32           | 260,37               | 28.141.949.016,32           |
+
 
 ## 3. Análisis por entidad gubernamental
 
@@ -445,9 +480,22 @@ En este caso solo nos encontramos con la existencia de las unidades con vínculo
 
 El Ministerio de Integración y Desarrollo Regional de Brasil es el encargado de implementar políticas nacionales para el desarrollo regional, riego, ordenamiento territorial, protección civil, y gestión de riesgos y catástrofes. Asimismo, establece directrices para fondos de financiamiento constitucionales y de desarrollo en el Norte, Nordeste y Centro-Oeste, y gestiona programas de crédito y seguridad hídrica. Su objetivo principal es promover infraestructura y desarrollo sostenible en las regiones del país.
 
+El Ministerio de Integración y Desarrollo regional ha recaudado un total de 19.356.487.150,32 $, representando esto un 15,37 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos una tendencia al alza de la recaudación hasta 2017, año a partir del cual se produce una ligera reducción. A partir de 2018 los ingresos vuelven a incrementarse hasta llegar al máximo en 2020, momento en el que caen de manera brusca. 
+
+`imagen temporal`
+
+Este ministerio se compone de los siguientes órganos: Empresa de Trens Urbanos de Porto Alegre, Companhia Brasileira de Trens Urbanos, Fundo Constitucional de Financiamento do Centro-Oeste, Fundo Constitucional de Financiamento do Norte, Fundo Constitucional de Financiamento do Nordeste, Departamento Nacional de Obras Contra as Secas, Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba, Ministério do Desenvolvimento Regional - Unidades com vínculo direto, Superintendência do Desenvolvimento da Amazônia, Fundo de Desenvolvimento da Amazônia, Fundo Nacional de Habitação de Interesse Social, Superintendência do Desenvolvimento do Nordeste, Agência Nacional de Águas, Agência de Desenvolvimento da Amazônia, Superintendência de Desenvolvimento do Centro-Oeste, Fundo de Desenvolvimento do Nordeste, Fundo de Desenvolvimento do Centro-Oeste. Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos.
+
+La máxima recaudación ha sido realizada por el Fondo de Desarrollo del Nordeste, con una recaudación total de 4.335.872.952,98 dólares. Por otro lado nos encontramos con organismos que han tenido una recaudación nula, siendo estos el Fondo Constitucional de Financiación para el Centro-Oeste, el Fondo Constitucional de Financiación para el Nordeste y el Fondo Constitucional de Financiación para el Norte.
+
 ### *Ministerio de Deportes (Ministério do Esporte)* 🏃
 
 El Ministerio de Deportes de Brasil tiene como función de garantizar los derechos de los atletas así como coordinar programas del deporte. También se encarga de gestionar las infraestructuras deportivas y la regulación de las acciones antidopaje. Asimismo, a través de incentivos y políticas públicas, promueve la participación ciudadana en actividades deportivas. Busca fomentar la práctica deportiva como herramienta de inclusión social, salud y desarrollo humano. 
+
+El Ministerio de Deportes ha recaudado un total de 53.896.237,79 $, representando esto un 44,58 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos un fuerte incremento al inicio del periodo, hasta 2014, punto en el que alcanza su máximo. A partir de 2014 presenta una tendencia a la baja, hasta alcanzar la recaudación mínima en 2019, último año del cual se tienen registro de ingresos. 
+
+`imagen temporal`
+
 
 ### *Ministerio de Medio Ambiente y Cambio Climático (Ministério do Meio Ambiente e Mudança do Clima)*
 
@@ -464,6 +512,10 @@ La máxima recaudación ha sido realizada por la matriz del Instituto Brasileño
 ### *Ministerio de Trabajo y Empleo (Ministério do Trabalho e Emprego)*
 
 El Ministerio de Trabajo y Empleo tiene competencia en asuntos sobre política y directrices para la generación de empleo, renta y apoyo al trabajador; políticas y directrices para la modernización de las relaciones de trabajo, así como su fsicalización. También se encarga de ña aplicación de als sanciones previstas en las ley, y realiza la política salarias. Anualmente realiza una encuesta llamada Relación Anual de Informaciones Sociales (RAIS) que comprende los aspectos del trabajo y los empresarios brasileños, similar a la ETCL que realiza el INE en España, en cuanto al enfoque de recopilar datos laborales. 
+
+El Ministerio de Trabajo y Empleo ha recaudado un total de 13,484,362,951.59 $, representando esto un 94,11 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos que solo hay datos hasta 2017. Los ingresos presentan una tendencia ascendente hasta 2015, año en el que empiezan a disminuirse de forma brusca. 
+
+`imagen temporal`
 
 ### *Ministerio de Turismo (Ministério do Turismo)*
 
@@ -521,7 +573,7 @@ La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo re
 
 ### Por Ministerio
 
-#### Ministerio de agrisultura
+#### Ministerio de agricultura
 
 
 ## 8. Bibliografia
@@ -535,15 +587,12 @@ https://revistas.uexternado.edu.co/index.php/fiscal/article/view/9165/15813
 - Información sobre los Ministerios de Brasil:
 https://www.gov.br/pt-br/orgaos-do-governo
 
-
-estadisticas fiscales gobierno brasil:
+- estadisticas fiscales gobierno brasil: 
 https://www.tesourotransparente.gov.br/temas/estatisticas-fiscais-e-planejamento
 
-ingresos publicos, portal transparencia: 
-https://portaldatransparencia.gov.br/receitas
+- ingresos publicos, portal transparencia: https://portaldatransparencia.gov.br/receitas
 
-web tesoro nacional:
-https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos
+- web tesoro nacional: https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos
 	
 	
 	

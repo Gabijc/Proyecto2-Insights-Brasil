@@ -110,6 +110,7 @@ def info_ministerio(dataframe, ministerio):
         organos["porcentaje_recaudacion"] = round((organos["VALOR REALIZADO"]/organos["VALOR PREVISTO ATUALIZADO"])* 100, 2)
         return organos
 
+
 # Función para gráficas temporales que comparan dos variables
 def evolucion_temporal(dataframe, eje_x, ejes_y):
     sns.lineplot(x = eje_x, 
