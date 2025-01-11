@@ -1,4 +1,4 @@
-# Ingresos en Brasil : un viaje por los presupuestos nacionales 🌎
+# Tendencias y Perspectivas Económicas de Brasil: 2013-2021
 
 ## Índice
 
@@ -581,9 +581,15 @@ La Presidencia se compone de los siguientes órganos: Presidência da República
 
 La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo recaudado un total de 14.624.394.871,41 dólares. La menor recaudación ha sido por parte de la Secretaría de Asuntos Estratégicos. Por otro lado, observamos que hay predicciones de recaudación en solo algunos órganos, que son los siguientes: el Fondo Nacional de Prensa, la Vicepresidencia de la República, el Instituto Nacional de Tecnología de la Información, la Secretaría de la Micro y Pequeña Empresa y la Presidencia. 
 
+## 5. Conclusiones y próximos pasos 
+
+El periodo entre 2013 y 2015 en Brasil está marcado por variaciones en el desempeño económico. Cabe destacar el impacto que tuvo la recesión sufrida por el país entre 2015 y 2016, la cual se ve reflejada en el análisis realizado. En numerosos casos los ingresos se ven reducidos tras este periodo. Por otro lado, hemos observado grandes diferencias de recaudación en función de los diferentes ministerios, así como según el tipo de ingreso. 
+
+En la mayoría de casos encontramos discordancia entre los ingresos registrados y los recaudados, lo que indica la existencia de falta de información, ya sea por que no fueron recogidos estos datos o la existencia de fraude fiscal. Se recomendaría buscar información al respecto a fondo para corregir estas discordancias. 
+
 ## 6. Balances
 
-### Contables
+### Contable
 
 | CATEGORIA ECONÔMICA                    | ORIGEM RECEITA                              | VALOR PREVISTO ATUALIZADO    | VALOR LANÇADO             | VALOR REALIZADO           |
 |----------------------------------------|---------------------------------------------|------------------------------|---------------------------|---------------------------|
@@ -612,12 +618,7 @@ La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo re
 | **Sem informação**                     | Sem informação                              | 0,00                         | 2.812.347.576,39          | 46,57                     |
 
 
-### Por Ministerio
-
-#### Ministerio de agricultura
-
-
-## 8. Bibliografia
+## 7. Bibliografia
 
 - Información sobre las categorías contables:
 https://portal.fazenda.sp.gov.br/acessoinformacao/Downloads/Webservice/Conceitos%20de%20receitas%20LC%20131.pdf

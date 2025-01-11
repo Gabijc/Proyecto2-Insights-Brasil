@@ -14,6 +14,7 @@ En este proyecto se ha realizado un análisis histórico detallado de los ingres
 - README.md: descripción general del proyecto.
 
 ## **Instalación y Requisitos 🛠️**
+
 Este proyecto usa Python 3.9 🐍 y requiere las siguientes librerías/funciones:
 
 - pandas 🐼
@@ -25,12 +26,13 @@ Este proyecto usa Python 3.9 🐍 y requiere las siguientes librerías/funciones
 
 ## **Resultados y Conclusiones 📊**
 
-- PENDIENTE
+- Se observan diferencias en los ingresos recaudados y los registrados en todos los casos, ya sea por inexistencia de información, o por la existencia de fraude fiscal.
+- Observamos de forma clara la afección de la crisis de Brasil entre 2015-2016.
 
 
 ## **Próximos Pasos 🔄**
 
-- PENDIENTE
+Tras analizar la economía de Brasil entre 2013 y 2021, el siguiente paso sería investigar las razones de la inxistencia de información presente en los datos, así como analizar las razones de las variaciones en la recaudación observadas, como por ejemplo, la afección de las políticas ecoómicas y fiscales aplicadas en el periodo sobre la recaudación.
  
 ## **Contribuciones 🤝**
 
