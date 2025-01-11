@@ -153,3 +153,24 @@ def graficos_estadisticos(dataframe, columna):
     axes[1].spines["right"].set_visible(False)
     axes[1].spines["top"].set_visible(False) 
     axes[1].ticklabel_format(style='plain', axis='x')
+
+
+def grafico_cat_economia(dataframe, eje_x, eje_y):
+    plt.figure(figsize=(12, 6))
+
+    sns.barplot(x = eje_x, 
+            y= eje_y,
+            data= dataframe)
+
+
+    plt.yscale("log")
+    plt.xticks(rotation = 20, ha="right", fontsize=8)
+    plt.title(input("Indica el título del gráfico: "))
+    plt.ylabel('Ingresos')
+    plt.xlabel(input("Indica el título del eje x: "))
+
+    plt.gca().spines["right"].set_visible(False)
+    plt.gca().spines["top"].set_visible(False)
+
+    plt.tight_layout()
+    plt.show()
