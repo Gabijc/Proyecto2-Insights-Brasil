@@ -160,7 +160,8 @@ def grafico_cat_economia(dataframe, eje_x, eje_y):
 
     sns.barplot(x = eje_x, 
             y= eje_y,
-            data= dataframe)
+            data= dataframe,
+            ci = None)
 
 
     plt.yscale("log")

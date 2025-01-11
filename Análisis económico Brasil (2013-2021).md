@@ -150,19 +150,16 @@ ingresos corrientes no clasificados en las partidas anteriores:
 - Ingresos de la deuda activa: ingresos recaudados de la deuda activa, consistentes en créditos tributarios y no tributarios del erario público.
 - Ingresos varios: valor de los ingresos recaudados que no se ajustan a las especificaiciones anteriores. 
 
-La principal fuente de los ingresos corrientes son las contribuciones junto a los ingresos tributarios, es decir, los impuestos, tasas y contribuciones de mejora. Por otro lado nos encontramos con una recaudación nula en los ingresos agropecuarios, los ingresos industriales y las transferencias corrientes. En el grupo de  otros ingresos corrientes observamos que el importe es negativo. 
+La principal fuente de los ingresos corrientes son las contribuciones junto a los ingresos tributarios, es decir, los impuestos, tasas y contribuciones de mejora. Por otro lado nos encontramos con una recaudación nula en los ingresos agropecuarios, los ingresos industriales y las transferencias corrientes. En el grupo de  otros ingresos corrientes observamos que el importe es negativo. El registro de ingresos no coincide en ningún punto con la recaudación, así como la previsión.
 
-| ORIGEM RECEITA                                      | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
-|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
-| Contribuições                                       | 7.224.633.087.504,00        | 3.220.620.507.720,18        | 6.877.089.890.534,66        | 95,19                | 3.656.469.382.814,48        |
-| Impostos, Taxas e Contribuições de Melhoria        | 4.510.202.085.939,00        | 2.020.808.903.486,62        | 4.287.304.858.124,57        | 95,06                | 2.266.495.954.637,95        |
-| Outras Receitas Correntes                           | 428.858.259.677,00          | 136.055.962.948,35          | 371.983.192.854,63          | 86,74                | 235.927.229.906,28          |
-| Receita Agropecuária                                | 230.056.327,00              | 0,00                        | 212.916.430,85              | 92,55                | 212.916.430,85              |
-| Receita Industrial                                  | 18.734.738.626,00           | 0,00                        | 17.941.345.587,65           | 95,77                | 17.941.345.587,65           |
-| Receita Patrimonial                                 | 922.303.174.656,03          | 380.086.767,00              | 957.242.133.633,19          | 103,79               | 956.862.046.866,19          |
-| Receita de Serviços                                 | 439.803.742.964,11          | 0,00                        | 409.260.662.661,21          | 93,06                | 409.260.662.661,21          |
-| Receitas Correntes - a classificar                 | 0,00                         | 5.042.321,57                | -15.471.989.712,32          | Previsión de 0       | -15.477.032.033,89          |
-| Transferências Correntes                            | 4.761.797.513,00            | 0,00                        | 3.780.118.794,99            | 79,38                | 3.780.118.794,99            |
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="Gráficos/ingresos corrientes 1.png" style="max-width: 48%; height: auto;">
+    <img src="Gráficos/ingresos corrientes 2.png" style="max-width: 48%; height: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="Gráficos/ingresos corrientes 3.png" style="max-width: 48%; height: auto;">
+</div>
 
 
 #### 2 - Ingresos corrientes - intrapresupuestarios
@@ -183,15 +180,11 @@ Incluye los ingresos corrientes de otras fuentes, no clasificables en los anteri
 
 La principal fuente de los ingresos corrientes intrapresupuestarios son las contribuciones junto a los clasificados como otros ingresos. Por otro lado nos encontramos que en los ingresos tributarios presentan un importe es negativo.
 
-| ORIGEM RECEITA                                       | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
-|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
-| Contribuições                                       | 190.615.572.904,00          | 0,00                        | 166.514.271.351,59          | 87,36                | 166.514.271.351,59          |
-| Impostos, Taxas e Contribuições de Melhoria        | 8.679.239,00               | 0,00                        | -12.147.875,22              | -139,96              | -12.147.875,22              |
-| Outras Receitas Correntes                           | 98.478.861.468,00          | 0,00                        | 123.592.727.703,21          | 125,50               | 123.592.727.703,21          |
-| Receita Industrial                                  | 1.381.739.049,00           | 0,00                        | 1.314.822.119,85           | 95,16                | 1.314.822.119,85           |
-| Receita Patrimonial                                 | 45.380.166,00              | 0,00                        | 92.745.808,59              | 204,38               | 92.745.808,59              |
-| Receita de Serviços                                 | 954.793.093,00             | 0,00                        | 1.149.371.591,87           | 120,38               | 1.149.371.591,87           |
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="Gráficos/Ingresos corrientes intra 1.png" style="max-width: 48%; height: auto;">
+    <img src="Gráficos/Ingresos corrientes intra 2.png" style="max-width: 48%; height: auto;">
+</div>
 
 #### 3 - Ingresos de Capital
 
@@ -227,14 +220,14 @@ Se trata de ingresos de capital procedentes de otras fuentes, no clasificados en
 
 La principal fuente de ingresos de los considerados como ingresos de capital son las operaciones de de crédito, junto a las clasificadas como otros ingresos de capital.
 
-| ORIGEM RECEITA                                       | VALOR PREVISTO ATUALIZADO   | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
-|-----------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
-| Alienação de Bens                                   | 69.459.904.322,00           | 0,00                        | 26.925.014.385,03           | 38,76                | 26.925.014.385,03           |
-| Amortizações de Empréstimos                         | 468.392.937.016,00          | 0,00                        | 799.034.542.267,89          | 170,59               | 799.034.542.267,89          |
-| Operações de Crédito                                | 12.776.862.878.819,19       | 3.813.949,42                | 9.857.797.506.467,94        | 77,15                | 9.857.793.692.518,52        |
-| Outras Receitas de Capital                          | 1.169.948.076.486,00        | 0,00                        | 1.722.900.919.485,78        | 147,26               | 1.722.900.919.485,78        |
-| Transferências de Capital                           | 1.089.634.563,40            | 0,00                        | 478.697.459,15              | 43,93                | 478.697.459,15              |
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="Gráficos/ingresos capital 1.png" style="max-width: 48%; height: auto;">
+    <img src="Gráficos/ingresos capital 2.png" style="max-width: 48%; height: auto;">
+</div>
 
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="Gráficos/ingresos capital 3.png" style="max-width: 48%; height: auto;">
+</div>
 
 #### 4 - Ingresos de capital - intrapresupuestarios
 
@@ -244,10 +237,10 @@ Se compone de los denominados *Otros ingresos de capital*, los cuales registran 
 
 En este caso las operaciones de crédito han tenido una recaudación superior.
 
-| ORIGEM RECEITA             | VALOR PREVISTO ATUALIZADO | VALOR LANÇADO               | VALOR REALIZADO             | porcentaje recaudado | diferencia_recaudacion      |
-|---------------------------|---------------------------|-----------------------------|-----------------------------|----------------------|-----------------------------|
-| Alienação de Bens         | 0,00                      | 0,00                        | 108.886.708,01              | Previsión de 0       | 108.886.708,01              |
-| Operações de Crédito      | 10.808.411.537,00         | 0,00                        | 28.141.949.016,32           | 260,37               | 28.141.949.016,32           |
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="Gráficos/ingresos capital intra 1.png" style="max-width: 48%; height: auto;">
+    <img src="Gráficos/ingresos capital intra 2.png" style="max-width: 48%; height: auto;">
+</div>
 
 
 ## 3. Análisis por entidad gubernamental
@@ -570,6 +563,7 @@ La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo re
 | **Receitas de Capital - intra-orçamentárias** | Alienação de Bens                      | 0,00                         | 0,00                      | 108.886.708,01            |
 |                                        | Operações de Crédito                        | 10.808.411.537,00            | 0,00                      | 28.141.949.016,32         |
 | **Sem informação**                     | Sem informação                              | 0,00                         | 2.812.347.576,39          | 46,57                     |
+
 
 ### Por Ministerio
 
