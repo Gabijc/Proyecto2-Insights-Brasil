@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. **Introduccion a la economía presupuestaria de Brasil**  
+1. **Introducción a la economía presupuestaria de Brasil**  
 2. **Análisis temporal de los ingresos de Brasil**
 3. **Análisis contable de los ingresos de Brasil**  
 4. **Análisis de los ingresos de Brasil por entidad gubernamental**
@@ -18,7 +18,7 @@ Durante la etapa de planificación se realiza la elaboración del Proyecto de Le
 
 ## 2. Análisis temporal de los ingresos de Brasil
 
-EN Brasil, a la hora de generar presupuestos, se registran los siguientes ingresos, en función del momento de creación o recaudación de los mismos:
+En Brasil, a la hora de generar presupuestos, se registran los siguientes ingresos, en función del momento de creación o recaudación de los mismos:
 - Ingresos previstos: previsión del ingreso a recaudar
 - Ingresos registrados: valor del ingreso registrado contablemente.
 - Ingresos recaudados: valor del ingreso recaudado finalmente.
@@ -218,7 +218,7 @@ Estos fondos son aquellos percibidos de otras entidades públicas o privadas, in
 
 Se trata de ingresos de capital procedentes de otras fuentes, no clasificados en los anteriores. Registran el importe de otros ingresis percibidos, de carácter ocasional, no incluidos en el plan contable. Los ingresos de capital que no cumplan las especificaciones anteriores se clasifican en esta partida. 
 
-La principal fuente de ingresos de los considerados como ingresos de capital son las operaciones de de crédito, junto a las clasificadas como otros ingresos de capital.
+La principal fuente de ingresos de los considerados como ingresos de capital son las operaciones de de crédito, junto a las clasificadas como otros ingresos de capital. En cuanto al registro de ingresos, observamos que solo hay registro en las operaciones de crédito. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="Gráficos/ingresos capital 1.png" style="max-width: 48%; height: auto;">
@@ -235,7 +235,7 @@ Los ingresos de capital intrapresupuestarios proceden de las sociedades estatale
 
 Se compone de los denominados *Otros ingresos de capital*, los cuales registran el importe percibido por otros ingresos vinculados al incremento del patrimonio de la unidad. Dentro de esta categoría tenemos el *pago del capital social* el cual registra el valor de los fondos recibidos por empresas públicas dependientes como pago de su capital social.  
 
-En este caso las operaciones de crédito han tenido una recaudación superior.
+En este caso las operaciones de crédito han tenido una recaudación superior, y solo hay registro de ingresos de esta categoría. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="Gráficos/ingresos capital intra 1.png" style="max-width: 48%; height: auto;">
@@ -307,13 +307,15 @@ La mayor recaudación ha sido realizada por el SETORIAL DE ORCAMENTO E FINANCAS/
 
 El Ministerio de Ciencia, Tecnología e Innovación (Ministério da Ciência, Tecnologia, Inovações ) es el órganismo con competencias en áreas como la  formulación de políticas nacionales de ciencia, tecnología e innovación, así como la planificación y supervisión de actividades en las áreas mencionadas. S encarga asimismo de las políticas de transformación digital, espacial, y nuclear, entre otros muchos. La responsable actual del ministerio es Luciana Santos, del Partido Comunista de Brasil (PCdoB).
 
-`El Ministerio de Ciencia, Tecnología e Innovación ha recaudado un total de $, representando esto un % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares de lo recaudado finalmente. La recaudación se mantiene constante hasta 2018, año en el que cae brsucamente. A partir de ese momento muestra una tendencia al alza, estando el máximo de recaudación en 2021. `
+El Ministerio de Ciencia, Tecnología e Innovación ha recaudado un total de 34.791.131.893,58 $, representando esto un 55,89 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 79.230,26 dólares de lo recaudado finalmente. Temporalmente observamos que los ingresos sufren una brsuca caída en 2015, sin remontar a los valores anteriores a esta caída en los siguientes años. Hay un ligreo incremento en 2018, pero en 2019 vuelven a disminuir, para subir ligeramente en 2020 y 2021.
 
-`imagen temporal`
+<div style="text-align: center;">
+    <img src="Gráficos/ciencia.png" alt="alt text" />
+</div>
 
-`Este Ministerio se compone de los siguientes órganos:  .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. `
+Este Ministerio se compone de los siguientes órganos: Ministério da Ciência, Tecnologia, Inovações e Comunicações - Unidades com vínculo direto; Conselho Nacional de Desenvolvimento Científico e Tecnológico; Comissão Nacional de Energia Nuclear; Fundo Nacional de Desenvolvimento Científico e Tecnológico; Financiadora de Estudos e Projetos; Centro Nacional de Tecnologia Eletrônica Avançada S.A.; Agência Espacial Brasileira; Empresa Brasileira de Correios e Telégrafos .Vamos a analizar a continuación los órganos con mayor y menor recaudación, y los valores atípicos que encontremos. 
 
-`La mayor recaudación ha sido realizada por , unidad con vínculo directo. La menor recaudación ha sido realizada por , también unidad con vñinculo directo. `
+La mayor recaudación ha sido realizada por el Fundo Nacional de Desarrollo Científico y Tecnológico, con un total de 18.254.381.279,43 dólares. Observamos que solo hay registro de ingresos en el Consejo Nacional de Desarrollos Científico y Tecnológico, y en la Coordinación General de Recursos Logísticos, además de ser los únicos organismos que presentan recaudación igual a cero.
 
 ### *Ministerio de Defensa (Ministério da Defesa)* 🚓
 
@@ -525,7 +527,7 @@ El Ministerio de Deportes de Brasil tiene como función de garantizar los derech
 El Ministerio de Deportes ha recaudado un total de 53.896.237,79 $, representando esto un 44,58 % de lo previsto a recaudar. Asimismo nos encontramos que ha registrado un total de 0 dólares, una cifra inferior a lo recaudado realmente. Temporalmente observamos un fuerte incremento al inicio del periodo, hasta 2014, punto en el que alcanza su máximo. A partir de 2014 presenta una tendencia a la baja, hasta alcanzar la recaudación mínima en 2019, último año del cual se tienen registro de ingresos. 
 
 <div style="text-align: center;">
-    <img src="Gráficos/deportes.png" alt="alt text" />
+    <img src="Gráficos/deporte.png" alt="alt text" />
 </div>
 
 
@@ -583,7 +585,7 @@ La máxima recaudación ha sido realizada por la Presidencia en sí, habiendo re
 
 ## 5. Conclusiones y próximos pasos 
 
-El periodo entre 2013 y 2015 en Brasil está marcado por variaciones en el desempeño económico. Cabe destacar el impacto que tuvo la recesión sufrida por el país entre 2015 y 2016, la cual se ve reflejada en el análisis realizado. En numerosos casos los ingresos se ven reducidos tras este periodo. Por otro lado, hemos observado grandes diferencias de recaudación en función de los diferentes ministerios, así como según el tipo de ingreso. 
+El periodo entre 2013 y 2015 en Brasil está marcado por variaciones en el desempeño económico. Cabe destacar el impacto que tuvo la recesión sufrida por el país entre 2015 y 2016, la cual se ve reflejada en el análisis realizado. En numerosos casos los ingresos se ven reducidos tras este periodo. A pesar de ello hay ministerios en los que se produce un incremento de los ingresos tras la recesión, lo cual es interesante desarrollar más adelante. Por otro lado, hemos observado grandes diferencias de recaudación en función de los diferentes ministerios, así como según el tipo de ingreso. 
 
 En la mayoría de casos encontramos discordancia entre los ingresos registrados y los recaudados, lo que indica la existencia de falta de información, ya sea por que no fueron recogidos estos datos o la existencia de fraude fiscal. Se recomendaría buscar información al respecto a fondo para corregir estas discordancias. 
 
