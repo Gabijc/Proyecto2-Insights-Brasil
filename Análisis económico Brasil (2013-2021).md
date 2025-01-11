@@ -28,7 +28,7 @@ Entre 2013 y 2021 la recaudación de ingresos públicos presenta una tendencia a
 
 
 <div style="text-align: center;">
-    <img src="imagenes/image.png" alt="alt text" />
+    <img src="Gráficos/image.png" alt="alt text" />
 </div>
 
 <br>
@@ -36,7 +36,7 @@ En cuanto al registro de ingresos, y la recaudación final observamos enormes di
 
 <br>
 <div style="text-align: center;">
-    <img src="imagenes/image-1.png" alt="alt text" />
+    <img src="Gráficos/image-1.png" alt="alt text" />
 </div>
 
 ## 3. Análisis contable de los ingresos de Brasil
